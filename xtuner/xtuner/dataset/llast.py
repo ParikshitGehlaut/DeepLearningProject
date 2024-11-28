@@ -132,17 +132,15 @@ def convert_data(
 
 
 def prepare_inputs_labels_for_llast(
-    llm: PreTrainedModel,
-    input_ids: Optional[torch.LongTensor] = None,
-    position_ids: Optional[torch.LongTensor] = None,
-    attention_mask: Optional[torch.Tensor] = None,
-    past_key_values: Optional[List[torch.FloatTensor]] = None,
-    labels: Optional[torch.LongTensor] = None,
-    audio_tokens: Optional[torch.FloatTensor] = None,
-    audio_lens: Optional[List[int]] = None,
-    audio_mask: Optional[torch.FloatTensor] = None,
-):
-    # Return early if there are no audio tokens
+        llm: PreTrainedModel,
+        input_ids: torch.LongTensor = None,
+        position_ids: Optional[torch.LongTensor] = None,
+        attention_mask: Optional[torch.Tensor] = None,
+        past_key_values: Optional[List[torch.FloatTensor]] = None,
+        labels: Optional[torch.LongTensor] = None,
+        audio_tokens: Optional[torch.FloatTensor] = None,
+        audio_lens: Optional[torch.FloatTensor] = None,
+        audio_mask: Optional[torch.FloatTensor] = None):
     if audio_tokens is None:
         return {
             'input_ids': input_ids,
@@ -152,94 +150,149 @@ def prepare_inputs_labels_for_llast(
             'inputs_embeds': None,
             'labels': labels
         }
+    _labels = labels
+    _position_ids = position_ids
+    _attention_mask = attention_mask
+    if attention_mask is None:
+        attention_mask = torch.ones_like(input_ids, dtype=torch.bool)
+    else:
+        attention_mask = attention_mask.bool()
+    if position_ids is None:
+        position_ids = torch.arange(
+            0, input_ids.shape[1], dtype=torch.long, device=input_ids.device)
+    if labels is None:
+        labels = torch.full_like(input_ids, IGNORE_INDEX)
 
-    # Set default values for optional inputs
-    attention_mask = attention_mask or torch.ones_like(input_ids, dtype=torch.bool)
-    position_ids = position_ids or torch.arange(0, input_ids.shape[1], dtype=torch.long, device=input_ids.device)
-    labels = labels or torch.full_like(input_ids, IGNORE_INDEX)
-    attention_mask = attention_mask.bool()
+    # remove the padding using attention_mask -- TODO: double check
+    input_ids = [
+        cur_input_ids[cur_attention_mask]
+        for cur_input_ids, cur_attention_mask in zip(input_ids, attention_mask)
+    ]
+    labels = [
+        cur_labels[cur_attention_mask]
+        for cur_labels, cur_attention_mask in zip(labels, attention_mask)
+    ]
 
-    # Validate lengths of audio-related inputs
-    if audio_lens is None:
-        audio_lens = [audio_tokens.shape[1]] * audio_tokens.shape[0]
-    assert len(audio_lens) == audio_tokens.shape[0], "Mismatch between audio tokens and audio lens lengths."
-
-    # Mask out padding from inputs
-    input_ids = [cur_input[cur_mask] for cur_input, cur_mask in zip(input_ids, attention_mask)]
-    labels = [cur_labels[cur_mask] for cur_labels, cur_mask in zip(labels, attention_mask)]
-    
-    # Ensure input IDs and labels have matching lengths
-    for i, (ids, lbls) in enumerate(zip(input_ids, labels)):
-        if len(ids) != len(lbls):
-            raise ValueError(f"Input IDs and labels must match in length after masking. Mismatch in batch index {i}.")
-
-    # Prepare new embeddings and labels
-    new_inputs_embeds, new_labels = [], []
+    new_inputs_embeds = []
+    new_labels = []
     cur_audio_idx = 0
-
     for batch_idx, cur_input_ids in enumerate(input_ids):
-        cur_labels = labels[batch_idx]
         num_audios = (cur_input_ids == LLAST_AUDIO_TOKEN_INDEX).sum()
-
-        # Process input with or without audio tokens
         if num_audios == 0:
-            cur_inputs_embeds = llm.get_input_embeddings()(cur_input_ids)
+            cur_audio_tokens = audio_tokens[cur_audio_idx]
+            cur_inputs_embeds_1 = llm.get_input_embeddings()(cur_input_ids)
+            cur_inputs_embeds = torch.cat(
+                [cur_inputs_embeds_1, cur_audio_tokens[0:0]], dim=0)
             new_inputs_embeds.append(cur_inputs_embeds)
-            new_labels.append(cur_labels)
+            new_labels.append(labels[batch_idx])
+            cur_audio_idx += 1
             continue
 
-        # Split input by audio tokens
-        audio_indices = torch.where(cur_input_ids == LLAST_AUDIO_TOKEN_INDEX)[0].tolist()
-        split_points = [-1] + audio_indices + [len(cur_input_ids)]
-        cur_inputs, cur_labels_segments = [], []
-        
-        for start, end in zip(split_points[:-1], split_points[1:]):
-            cur_inputs.append(cur_input_ids[start + 1:end])
-            cur_labels_segments.append(cur_labels[start + 1:end])
+        audio_token_indices = [-1] + torch.where(
+            cur_input_ids == LLAST_AUDIO_TOKEN_INDEX)[0].tolist() + [
+                cur_input_ids.shape[0]
+            ]
+        cur_input_ids_noaudio = []
+        cur_labels = labels[batch_idx]
+        cur_labels_noaudio = []
+        for i in range(len(audio_token_indices) - 1):
+            cur_input_ids_noaudio.append(
+                cur_input_ids[audio_token_indices[i] +
+                              1:audio_token_indices[i + 1]])
+            cur_labels_noaudio.append(cur_labels[audio_token_indices[i] +
+                                                 1:audio_token_indices[i + 1]])
+        split_sizes = [x.shape[0] for x in cur_labels_noaudio]
+        cur_inputs_embeds = llm.get_input_embeddings()(
+            torch.cat(cur_input_ids_noaudio))
+        cur_inputs_embeds_no_audio = torch.split(
+            cur_inputs_embeds, split_sizes, dim=0)
 
-        # Embed inputs and insert audio tokens
-        cur_inputs_embeds = llm.get_input_embeddings()(torch.cat(cur_inputs))
-        cur_inputs_embeds_split = torch.split(cur_inputs_embeds, [len(segment) for segment in cur_inputs])
-        cur_new_embeds, cur_new_labels = [], []
+        cur_new_inputs_embeds = []
+        cur_new_labels = []
 
-        for i in range(len(cur_inputs)):
-            cur_new_embeds.append(cur_inputs_embeds_split[i])
-            cur_new_labels.append(cur_labels_segments[i])
-            if i < len(audio_indices):
+        for i in range(num_audios + 1):
+            cur_new_inputs_embeds.append(cur_inputs_embeds_no_audio[i])
+            cur_new_labels.append(cur_labels_noaudio[i])
+            if i == 0:
+                prefix_len = cur_inputs_embeds_no_audio[i].shape[0]
+            if i < num_audios:
                 cur_audio_tokens = audio_tokens[cur_audio_idx]
-                cur_new_embeds.append(cur_audio_tokens)
-                cur_new_labels.append(
-                    torch.full((cur_audio_tokens.shape[0],), IGNORE_INDEX, dtype=cur_labels.dtype, device=cur_labels.device)
-                )
                 cur_audio_idx += 1
+                cur_new_inputs_embeds.append(cur_audio_tokens)
+                cur_new_labels.append(
+                    torch.full((cur_audio_tokens.shape[0], ),
+                               IGNORE_INDEX,
+                               device=cur_labels.device,
+                               dtype=cur_labels.dtype))
 
-        new_inputs_embeds.append(torch.cat(cur_new_embeds))
-        new_labels.append(torch.cat(cur_new_labels))
+        cur_new_inputs_embeds = torch.cat(cur_new_inputs_embeds)
+        cur_new_labels = torch.cat(cur_new_labels)
 
-    # Batch padding and final adjustments
-    max_len = max(embeds.shape[0] for embeds in new_inputs_embeds)
+        new_inputs_embeds.append(cur_new_inputs_embeds)
+        new_labels.append(cur_new_labels)
+
+    # Combine them
+    max_len = max(x.shape[0] for x in new_inputs_embeds)
     batch_size = len(new_inputs_embeds)
-    embed_dim = new_inputs_embeds[0].shape[1]
 
-    padded_embeds = torch.zeros((batch_size, max_len, embed_dim), dtype=new_inputs_embeds[0].dtype, device=new_inputs_embeds[0].device)
-    padded_labels = torch.full((batch_size, max_len), IGNORE_INDEX, dtype=new_labels[0].dtype, device=new_labels[0].device)
-    padded_attention_mask = torch.zeros((batch_size, max_len), dtype=torch.bool, device=new_labels[0].device)
-    padded_position_ids = torch.zeros((batch_size, max_len), dtype=torch.long, device=new_labels[0].device)
+    new_inputs_embeds_padded = []
+    new_labels_padded = torch.full((batch_size, max_len),
+                                   IGNORE_INDEX,
+                                   dtype=new_labels[0].dtype,
+                                   device=new_labels[0].device)
+    attention_mask = torch.zeros((batch_size, max_len),
+                                 dtype=attention_mask.dtype,
+                                 device=attention_mask.device)
+    position_ids = torch.zeros((batch_size, max_len),
+                               dtype=position_ids.dtype,
+                               device=position_ids.device)
 
-    for i, (embeds, labels) in enumerate(zip(new_inputs_embeds, new_labels)):
-        cur_len = embeds.shape[0]
-        padded_embeds[i, :cur_len] = embeds
-        padded_labels[i, :cur_len] = labels
-        padded_attention_mask[i, :cur_len] = True
-        padded_position_ids[i, :cur_len] = torch.arange(cur_len, dtype=torch.long, device=new_labels[0].device)
+    # remain debug
+    if audio_lens is None and audio_tokens.shape[0] == 1:
+        audio_lens = [audio_tokens.shape[1]]
+    max_audio_len = max(audio_lens)
+    for i, (cur_new_embed, cur_new_labels, audio_len) in enumerate(
+            zip(new_inputs_embeds, new_labels, audio_lens)):
+        cur_len = cur_new_embed.shape[0]
+        new_inputs_embeds_padded.append(
+            torch.cat((cur_new_embed,
+                       torch.zeros((max_len - cur_len, cur_new_embed.shape[1]),
+                                   dtype=cur_new_embed.dtype,
+                                   device=cur_new_embed.device)),
+                      dim=0))
+        if cur_len > 0:
+            new_labels_padded[i, :cur_len] = cur_new_labels
+            attention_mask[i, :cur_len] = True
+            attention_mask[i, (prefix_len + audio_len):(prefix_len +
+                                                        max_audio_len)] = False
+            position_ids[i, :cur_len] = torch.arange(
+                0,
+                cur_len,
+                dtype=position_ids.dtype,
+                device=position_ids.device)
+
+    new_inputs_embeds = torch.stack(new_inputs_embeds_padded, dim=0)
+
+    if _labels is None:
+        new_labels = None
+    else:
+        new_labels = new_labels_padded
+
+    if _attention_mask is None:
+        attention_mask = None
+    else:
+        attention_mask = attention_mask.to(dtype=_attention_mask.dtype)
+
+    if _position_ids is None:
+        position_ids = None
 
     return {
         'input_ids': None,
-        'position_ids': padded_position_ids,
-        'attention_mask': padded_attention_mask,
+        'position_ids': position_ids,
+        'attention_mask': attention_mask,
         'past_key_values': past_key_values,
-        'inputs_embeds': padded_embeds,
-        'labels': padded_labels
+        'inputs_embeds': new_inputs_embeds,
+        'labels': new_labels
     }
 
 
