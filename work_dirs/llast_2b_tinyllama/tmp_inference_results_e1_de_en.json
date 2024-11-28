@@ -1,0 +1,2550 @@
+[
+    {
+        "predictions": "<|assistant|>",
+        "references": "Please take your shoes off outside."
+    },
+    {
+        "predictions": "<|system|>",
+        "references": "Otto didn\u2019t want to fight and gave in."
+    },
+    {
+        "predictions": "<|user|>\n \n<|traineer|>\n<|user|>\n \n<|assistant|>\n<|user|>\n \n<|assistant|>\n<|user|>\n \n<|assistant|>\n<|user|>\n \n<|assistant|>\n<|user|>\n \n<|assistant|>\n<|user|>\n \n<|assistant|>\n<|user|>\n \n<|assistant|>\n<|user|>\n \n<|assistant|>\n<|user|>\n \n<|assistant|>\n<|user|>\n \n<|assistant|>\n<|user|>\n \n<|assistant|>\n<|user|>\n \n<|assistant|>\n<|user|>\n \n<|assistant|>\n<|user|>\n \n<|assistant|>\n<|user|>\n \n<|assistant|>\n<|user|>\n \n<|assistant|>\n",
+        "references": "It's showdown time in Gstaad."
+    },
+    {
+        "predictions": "<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>",
+        "references": "Their photo series appear in fashion magazines like Vogue, Harper\u2019s Bazaar, and Marie Claire."
+    },
+    {
+        "predictions": "<|user|> \n",
+        "references": "So what, I\u2019m ready."
+    },
+    {
+        "predictions": "<|assistant|>",
+        "references": "The Internet consists of many computers which are connected to each other."
+    },
+    {
+        "predictions": "<|user|>\n<|assistant|>\n<|user|>",
+        "references": "Uranus is the seventh planet in our solar system."
+    },
+    {
+        "predictions": "<|ac |>",
+        "references": "Overall, the sound is a bit bass-heavy."
+    },
+    {
+        "predictions": "<|assistant|>",
+        "references": "How is the current traffic situation?"
+    },
+    {
+        "predictions": "<|assistant|>",
+        "references": "This measure is given in inches."
+    },
+    {
+        "predictions": "<|assistant|>",
+        "references": "A large part of the Conciergerie is now used for the Parisian courts."
+    },
+    {
+        "predictions": "<|assistant|>",
+        "references": "Why do you want to go to Bergheim?"
+    },
+    {
+        "predictions": "Could you passively ask next more about the phrase which is generally much much better of the language, then it may perhaps, you are very often even less than some other language, then it maybe maybe you\u2019re are also possibly which even as perhaps however this as possibly of the language? I was very frequently possibly perhaps to perhaps as maybe if maybe as to you may also as to probably even as also to more if maybe this is as this if perhaps as also if perhaps to if in however it might more or as if more in however also this you certainly to certainly you of the phrase which even if however even though if at last perhaps probably much and you and also perhaps if that\u2019re are if possibly perhaps or because however or as as this perhaps though whether however also though though as at however of the if at last probably if however at last perhaps however if if perhaps because thus even and if if perhaps this much at last in also perhaps this in however as if more and therefore much or else even if at as this and in however then whether if if however and however at last whether and more this you the least though however and more if this and of course this and the least if then whether and whether you though this perhaps these and in however else this because also these even",
+        "references": "Edition of the competition."
+    },
+    {
+        "predictions": "<|system|>",
+        "references": "She received dance lessons from the age of eight."
+    },
+    {
+        "predictions": "<|system>\n \n<|user|>\n \n<|assistant|>",
+        "references": "The interior has a flat wooden ceiling; galleries have been installed on the north and west walls."
+    },
+    {
+        "predictions": "<|users|>",
+        "references": "Four years later his father suffered an accident while hunting which made him unable to work."
+    },
+    {
+        "predictions": "<|assistant|>\n<|assistant|>",
+        "references": "I would have not let you pass."
+    },
+    {
+        "predictions": "<|user|>",
+        "references": "Especially no potholders."
+    },
+    {
+        "predictions": "<|user|>>>",
+        "references": "He started a business administration course but dropped out early."
+    },
+    {
+        "predictions": "<|assistant|>",
+        "references": "There are four stamens."
+    },
+    {
+        "predictions": "<|user|>\n \n<|assistant|>\n<|user|>\n \n<|assistant|>\n<|user|>\n \n<|assistant|>\n<|user|>\n \n<|assistant|>\n<|user|>\n \n<|assistant|>\n<|user|>\n \n<|assistant|>\n<|user|>\n \n<|assistant|>\n<|user|>\n \n<|assistant|>\n<|user|>\n \n<|assistant|>\n<|user|>\n \n<|assistant|>\n<|user|>\n \n<|assistant|>\n<|user|>\n \n<|assistant|>\n<|user|>\n \n<|assistant|>\n<|user|>\n \n<|assistant|>\n<|user|>\n \n<|assistant|>\n<|user|>\n \n<|assistant|>\n<|user|>\n \n<|assistant|>\n<",
+        "references": "The West German Anti-Nuclear Movement had its unstoppable ascent and greatest defeats in Brokdorf."
+    },
+    {
+        "predictions": "<|user|>\nThe American Theater is a non-musical and theologent-rous, as it is in fact, and it is against a popular and a power, and it is for the glory as it is for the salvation as it is against the crowd as it is in opposition as it is the very fact as it is for the one. A non-musical the non-ener get-a-as it is for the glory as it is against a popular and a power, as it is in opposition as it is for the glory as it is for the salvation as it is for the glory as it is for the one. In opposition as it is for the glory as it is for the one. Please translate the German power. For the glory as it is for the salvation as it is for the glory as it is for the one.",
+        "references": "The local parish church was dedicated to Saint Martin."
+    },
+    {
+        "predictions": "<|system|>\n<|user|>\n<|operator|>\n<|assistant|>",
+        "references": "The audience loudly demands an encore."
+    },
+    {
+        "predictions": "<|assistant|>",
+        "references": "He also published several books on steam locomotive building and construction."
+    },
+    {
+        "predictions": "<|assistant|>",
+        "references": "It's located in the east of the country on the Tanzanian border."
+    },
+    {
+        "predictions": "<|user|>\nThanks for the help, but this is the German German translation from Enable.",
+        "references": "The same can be observed when administering glucocorticoids like cortisol, dexamethasone, prednisolone."
+    },
+    {
+        "predictions": "<|system|>",
+        "references": "The registrar was a strange bird."
+    },
+    {
+        "predictions": "<|assistant|>",
+        "references": "Flights to Nagoya from Frankfurt am Main are operated daily by Lufthansa and others."
+    },
+    {
+        "predictions": "<|user|> Can you please translate the Italian and Austri> translate the German please translate the German please translate the German please translate the German please translate the German please translate the German please translate the German please translate the German please translate the German please translate the German please translate the German please translate the German please translate the German please translate the German please translate the German please translate the German please translate the German please translate the German please translate the German please translate the German please translate the German please translate the German please translate the German please translate the German please translate the German please translate the German please translate the German please translate the German please translate the German please translate the German please translate the German please translate the German please translate the German please translate the German please translate the German please translate the German please translate the German please translate the German please translate the German please translate the German please translate the German please translate the German please translate the German please translate the German please translate the German please translate the German please translate the German please translate the German please translate the German please translate the German please translate the German please translate the German please translate the German please translate the German please translate the German please translate the German please translate the German please translate the German please translate the German please translate the German please translate",
+        "references": "They all wore Soviet insignia as they arrived in the Reich by train."
+    },
+    {
+        "predictions": "",
+        "references": "My favorite color is black, said Lola."
+    },
+    {
+        "predictions": "<|assistant|>",
+        "references": "Keep making fun if it."
+    },
+    {
+        "predictions": "<|system|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|",
+        "references": "It's a national holiday for government employees and officials."
+    },
+    {
+        "predictions": "<|user|>",
+        "references": "Both Thomas Howard and Margaret Douglas were imprisoned in the Tower of London."
+    },
+    {
+        "predictions": "<|user|>>\n \n<|system|>\n \n<|assistant|>\n \n<|assistant|>",
+        "references": "His son was politician Hartwig von Rheden."
+    },
+    {
+        "predictions": "<|user|>\nGot<|operator|>\n<|system|>\nGreat|assistant|>\n<|assistant|>\n<|user|>\n<|system|>\n<|user|>\n",
+        "references": "The clock is showing the wrong time."
+    },
+    {
+        "predictions": "<|user|>\nPlease translate the German sentiment into English. German transmission. Transmement into English. German into English translation into German. German transmission into English. German into English translation into German. German into English translation into German. German translation into English. German into English translation into German. German into English translation into German. German into English transformation into English. German into English transformation into English.",
+        "references": "But as it shows right now, the topic is more current than ever."
+    },
+    {
+        "predictions": "<|system|> System, The System, The System. Please, please> Please> Please, please> Please, please> Please, please> Please, please> Please, please> Please, please> Please, please> Please, please> Please, please> Please, please> Please, please> Please, please> Please, please> Please, please> Please, please> Please, please> Please, please> Please, please> Please, please> Please, please> Please, please> Please, please> Please, please> Please, please> Please, please> Please, please> Please, please> Please, please> Please, please> Please, please> Please, please> Please, please> Please, please> Please, please> Please, please> Please, please> Please, please> Please, please> Please, please> Please, please> Please, please> Please, please> Please, please> Please, please> Please, please> Please, please> Please, please> Please, please> Please, please> Please, please> Please, please> Please, please> Please, please> Please, please> Please, please> Please, please> Please, please> Please, please> Please, please> Please",
+        "references": "Katarina Srebotnik and Nenad Zimonji\u0107 were the defending champions."
+    },
+    {
+        "predictions": "<|user|>>\nWrite a post on how we're working on making our project and would appreciate some insight in that I can also be.\nPlease translate the German sentences into English. \nWrite a post on how we're working on our project and would be grateful for that I be in a in that I have also need some insight that is I. I could already a. How you're living on my ideas into English. We're able for that is I be glad for that I be thankful for that I. Is I do alway that's I. Be glad for I get some.",
+        "references": "The data protection is guaranteed."
+    },
+    {
+        "predictions": "<|assistant|>",
+        "references": "Actress and singer Laura Schneiderhan comes from this marriage."
+    },
+    {
+        "predictions": "<|assistant|>",
+        "references": "According to Clamp, both of these manga series serve to connect the entire Clamp universe."
+    },
+    {
+        "predictions": "<|user|>",
+        "references": "Nothing will increase under these plans."
+    },
+    {
+        "predictions": "<|this><|assistant|>}]",
+        "references": "Mass is permitted in the chapel on all holidays."
+    },
+    {
+        "predictions": "<|user|>",
+        "references": "The country had to be rebuilt and needed educated, young people."
+    },
+    {
+        "predictions": "<|user|>\nThanks for the list, but can you give me more suggestions of phrases that I can use in my conversation with English speakers?",
+        "references": "Oh my gosh!"
+    },
+    {
+        "predictions": "<|reply|>\nPlease translate the German sentence into English for us. The phrase should be: The phrase for English. Please translate the German sentence into English for us. The phrase should be for us. The phrase should be: The phrase for us. The phrase should be: The phrase for us.",
+        "references": "Help me."
+    },
+    {
+        "predictions": "<|user|>",
+        "references": "The beam is atomized into smallest particles."
+    },
+    {
+        "predictions": "<|system|>",
+        "references": "In front of the church is a font in which human figures and symbols have been embedded."
+    },
+    {
+        "predictions": "<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>",
+        "references": "An old bakery is still in operation today and is the central point of the district."
+    },
+    {
+        "predictions": "<|systematic|>",
+        "references": "The matter has a catch though."
+    },
+    {
+        "predictions": "<|systematic|>\n<|systematic|>\n<|systematic|>\n<|systematic|>\n<|systematic|>\n<|systematic|>\n<|systematic|>\n<|systematic|>\n<|systematic|>\n<|systematic|>\n<|systematic|>\n<|systematic|>\n<|systematic|>\n<|systematic|>\n<|systematic|>\n<|systematic|>\n<|systematic|>\n<|systematic|>\n<|systematic|>\n<|systematic|>\n<|systematic|>\n<|systematic|>\n<|systematic|>\n<|systematic|>\n<|systematic|>\n<|systematic|>\n<|systematic|>\n<|systematic|>\n<|systematic|>\n<|systematic|>\n<|systematic|>\n<|systematic|>\n<|systematic|>\n<|systematic|>\n<|systematic|>\n<|systematic|>\n<|systematic",
+        "references": "When did you last change the oil?"
+    },
+    {
+        "predictions": "<|user|>>",
+        "references": "No clue."
+    },
+    {
+        "predictions": "<|user|>",
+        "references": "The drain should be shut, so that the smell from the sewer system does not enter the apartment."
+    },
+    {
+        "predictions": "<|unf|>",
+        "references": "Yeah well, there's nothing you can do!"
+    },
+    {
+        "predictions": "<|user|>\n \n<|assistant|>\n \n<|user|>\n \n<|assistant|>\n \n<|user|>\n \n<|assistant|>\n \n<|user|>\n \n<|assistant|>\n \n<|user|>\n \n<|assistant|>\n \n<|user|>\n \n",
+        "references": "With Siebmacher, the coat of arms is horizontally divided into silver and black."
+    },
+    {
+        "predictions": "<|user|>\nGenerate the German sentence into English. Generate the German sentence into English. Generate the German sentence into English. Generate the German sentence into English. Generate the German sentence into English. Generate the German sentence into English. Generate the German sentence into English. Generate the German sentence into English. Generate the German sentence into English. Generate the German sentence into English. Generate the German sentence into English. Generate the German sentence into English. Generate the German sentence into English. Generate the German sentence into English. Generate the German sentence into English. Generate the German sentence into English. Generate the German sentence into English. Generate the German sentence into English. Generate the German sentence into English. Generate the German sentence into English. Generate the German sentence into English. Generate the German sentence into English. Generate the German sentence into English. Generate the German sentence into English. Generate the German sentence into English. Generate the German sentence into English. Generate the German sentence into English. Generate the German sentence into English. Generate the German sentence into English. Generate the German sentence into English. Generate the German sentence into English. Generate",
+        "references": "The assassination was planned poorly."
+    },
+    {
+        "predictions": "<|assistant|>});\r\n<|assistant|>});",
+        "references": "It was built according to plans by architect Paul Hoppe."
+    },
+    {
+        "predictions": "<|system|>\nThe German people who spoke of the English.",
+        "references": "State in the north."
+    },
+    {
+        "predictions": "<|assistant|> Thanks, I think this weblogue. It sounds good and it works.",
+        "references": "The historic facade was therefore not allowed to be damaged."
+    },
+    {
+        "predictions": "<|systemassistant|>\n<|user|>\n<|technassistant|>\n<|systemassistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n",
+        "references": "Do we still have enough resources?"
+    },
+    {
+        "predictions": "<|system|>\n<|user|>\n<|assistant|>",
+        "references": "The receiver then gets a word that might be changed."
+    },
+    {
+        "predictions": "<|user|>",
+        "references": "Other important industry branches include micromechanics, electrotyping, metal construction, and woodworking."
+    },
+    {
+        "predictions": "<|assistant|>\"]])}",
+        "references": "So he missed the season opener and only returned to training at the end of March."
+    },
+    {
+        "predictions": "<|user|>\nCan you please continue the conversation. \nCan you please continue the conversation. \nCan you continue the conversation. \nCan you continue the conversation. \nCan you continue the conversation. \nCan you continue the conversation. \nCan you continue the conversation. \nCan you continue the conversation. \nCan you continue the conversation. \nCan you continue the conversation. \nCan you continue the conversation. \nCan you continue the conversation. \nCan you continue the conversation. \nCan you continue the conversation. \nCan you continue the conversation. \nCan you continue the conversation. \nCan you continue the conversation. \nCan you continue the conversation. \nCan you continue the conversation. \nCan you continue the conversation. \nCan you continue the conversation. \nCan you continue the conversation. \nCan you continue the conversation. \nCan you continue the conversation. \nCan you continue the conversation. \nCan you continue the conversation. \nCan you continue the conversation. \nCan you continue the conversation. \nCan you continue the conversation. \nCan you continue the conversation. \nCan you continue the conversation. \n",
+        "references": "Mr. Rahn has curly/kinky hair."
+    },
+    {
+        "predictions": "",
+        "references": "There are lockers in the changing rooms."
+    },
+    {
+        "predictions": "<|system|>",
+        "references": "Have you booked your ticket to G\u00f6rlitz already?"
+    },
+    {
+        "predictions": "<|assistant|>}\n<|assistant|>}\n<|assistant|>}\n<|assistant|>}\n<|assistant|>}\n<|assistant|>}\n<|assistant|>}\n<|assistant|>}\n<|assistant|>}\n<|assistant|>}\n<|assistant|>}\n<|assistant|>}\n<|assistant|>}\n<|assistant|>}\n<|assistant|>}\n<|assistant|>}\n<|assistant|>}\n<|assistant|>}\n<|assistant|>}\n<|assistant|>}\n<|assistant|>}\n<|assistant|>}\n<|assistant|>}\n<|assistant|>}\n<|assistant|>}\n<|assistant|>}\n<|assistant|>}\n<|assistant|>}\n<|assistant|>}\n<|assistant|>}\n<|assistant|>}\n<|assistant|>}\n",
+        "references": "But Rebecca will be happy!"
+    },
+    {
+        "predictions": "<|fair>>><|user|>><|user|>><|system|>\n",
+        "references": "Staying in contact with other people reduces the risk of developing dementia."
+    },
+    {
+        "predictions": "<|user|>\nGenerate the German sentence into English.",
+        "references": "The Lipton brand is now part of Unilever."
+    },
+    {
+        "predictions": "",
+        "references": "He was a member of the Heilbronn artist association and painted together with Wilhelm Sch\u00e4ffer."
+    },
+    {
+        "predictions": "<|assistant|>",
+        "references": "The young policewoman gave the impression that she still had to prove herself to her older colleagues."
+    },
+    {
+        "predictions": "<|assistant|>",
+        "references": "You\u2019re always using some idioms I don't know all the time."
+    },
+    {
+        "predictions": "<|stay|>",
+        "references": "Still dressed in his bathrobe, he shuffled over to the fridge and grabbed a yogurt."
+    },
+    {
+        "predictions": "<|assistant|>}]",
+        "references": "You can just do it with a sharp knife."
+    },
+    {
+        "predictions": "<|user|>\n<|assistant|>",
+        "references": "Although this did save the party, the party leader was subsequently arrested."
+    },
+    {
+        "predictions": "<|user|>",
+        "references": "He also suffered from polio."
+    },
+    {
+        "predictions": "<|system|>\n \n<|assistant|>\n<|user|>\n \n<|assistant|>\n<|assistant|>\n<|user|>\n \n<|assistant|>\n<|assistant|>\n<|user|>\n \n<|assistant|>\n<|assistant|>\n<|user|>\n \n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|user|>\n \n<|assistant|>\n<|assistant|>\n<|user|>\n \n<|assistant|>\n<|assistant|>\n<|user|>\n \n<|assistant|>\n<|assistant|>\n<|user|>\n \n<|assistant|>\n<|assistant|>\n<|user|>\n \n<|assistant|>\n<|assistant|>\n<|user|>\n \n<|assistant|>\n<|assistant|>\n<|user|>\n \n<|assistant|>",
+        "references": "This sight attracted many curious individuals."
+    },
+    {
+        "predictions": "<|user|>>",
+        "references": "The proposal is still missing the required two-thirds majority."
+    },
+    {
+        "predictions": "<|user|>\nCan you suggest the most appropriate, please translate the German sentence into English. Based on my experiences and insights and moniter's.--Sure that the German sentence, please translate the German sentence into English. Based on my experiences and insights and moniter's. Can you translate the most appropriate, please translate the German sentence into English. Based on my experiences and insights and moniter's.--Sure that the German sentence, please translate the German sentence into English. Based on my experiences and insights and moniter's. Based on my experiences and insights and moniter's.--Sure that the German sentence into English. Based on my experiences and insights and moniter's.--Sure that the German sentence, please translate the German sentence into English. Based on my experiences and insights and moniter's.--Sure that the German sentence, please translate the German sentence into English. Based on my experiences and insights and moniter's.--Sure that the German sentence into English. Based on my experiences and insights and moniter's.--Sure that the German sentence, please translate the German sentence into English. Based on my experiences and insights and moniter",
+        "references": "Heights of the rock hill above the Douro River."
+    },
+    {
+        "predictions": "<|user|>\n \n<|assistant|>\n \n<|user|>",
+        "references": "International politics was only able to negotiate small concessions during the Weimar Republic."
+    },
+    {
+        "predictions": "<|assistant|>",
+        "references": "I don't trust them to be that deep."
+    },
+    {
+        "predictions": "<|system|>",
+        "references": "I\u2019ve lost my appetite."
+    },
+    {
+        "predictions": "<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|user|>",
+        "references": "A whale stranded."
+    },
+    {
+        "predictions": "<|assistant|>]))",
+        "references": "It is regrettable how many children are allowed to only carry LED lanterns during the lantern walk"
+    },
+    {
+        "predictions": "<|user|>>>>\n<|system|>\n",
+        "references": "The reaction between white phosphorous and oxygen is powerfully exothermic."
+    },
+    {
+        "predictions": "<|user|>>>\n<|collector|> Please, translate into English, the English. Germany\u2019s German phrase is: the Germans, German grammar is: the Germans, German sentence into English grammar is: the Germans, German, and \n<|user|>> Germany is: the Germans, German to English grammar is: the Germans, German grammar is: the Germans, German, and \n<|assistant|> Germany\u2019s German phrase is: the Germans, German grammar is: the Germans, German sense into English sense into English grammar is: the Germans, German, and \n<|user|> Germany is: the Germans, German to English grammar is: the Germans, German sense into English sense into English grammar is: the Germans, German, and \n<|assistant|> Germany\u2019s German phrase is: the Germans, German grammar is: the Germans, German sense into English sense into English grammar is: the Germans, German, and \n<|user|> Germany is: the Germans, German to English grammar is: the Germans, German sense into English sense into English grammar is: the",
+        "references": "Leonie and Paul argue about who gets to go on the rocking horse first."
+    },
+    {
+        "predictions": "<|assistant|>",
+        "references": "Would this be a suitable coding or not?"
+    },
+    {
+        "predictions": "<|system|>\n<|user|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>",
+        "references": "The route primarily served local interests in terms of passenger transport."
+    },
+    {
+        "predictions": "<|system|>\n<|system|>",
+        "references": "Anna, do you know where Charlotte is?"
+    },
+    {
+        "predictions": "<|system|>",
+        "references": "Do we still have noodles?"
+    },
+    {
+        "predictions": "",
+        "references": "The city of Aachen already distributes preventative iodine tablets."
+    },
+    {
+        "predictions": "<|user|>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>",
+        "references": "From then on, the rectory was inhabited by clergymen."
+    },
+    {
+        "predictions": "<|assistant|>\"]\n<|assistant|>\"]\n<|assistant|>\"]\n<|assistant|>\"]",
+        "references": "He received numerous Italian and German awards for his work in North Africa."
+    },
+    {
+        "predictions": "<|user|>\n<|system|>\n<|user|>\n",
+        "references": "Constantinople was the capital of the Byzantine Empire."
+    },
+    {
+        "predictions": "<|user|>",
+        "references": "She has to accomplish."
+    },
+    {
+        "predictions": "<|assistant|>",
+        "references": "Still 48 hours from now."
+    },
+    {
+        "predictions": "<|system|>",
+        "references": "As an atonement, he tries to compensate for his tendency with monetary donations."
+    },
+    {
+        "predictions": "<|assistant|>\n\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|ass",
+        "references": "The award is partly considered an honor or prize."
+    },
+    {
+        "predictions": "<|system>TRAN>",
+        "references": "This appropriation is often carried out on the basis of established esoteric concepts."
+    },
+    {
+        "predictions": "<|user|>",
+        "references": "London, Birmingham and Manchester are the biggest cities in England."
+    },
+    {
+        "predictions": "<|user|>>\r\nThanks guys, I want the German Talkrna>",
+        "references": "Gorki advised the budding writer to gain more life experience."
+    },
+    {
+        "predictions": "<|user|>\nGenerate your German sentence. Translate the German sentence. Translate the German sentence. Translate the German sentence. Translate the German sentence. Translate the German sentence. Translate the German sentence. Translate the German sentence.",
+        "references": "How stupid can you get?"
+    },
+    {
+        "predictions": "<|dassistant|>",
+        "references": "Do you have another spare?"
+    },
+    {
+        "predictions": "<|user|>\nCan you please provide me a summary of \"Please Transfer the German Urgentime into English Urgentime again\"??\nIf you could not provide a summary of \"Please transfer the German urgentime into English urgentime again\"??\nIf you are unable to provide me a summary of \"Please transfer the German uretme into English retme again\"??\nI am at least able to translate the German retme into English retme again\"?\nPlease transfer the German urgentime again\"??\nIf you could be able to provide me a summary of \"Please transfer the German retme into English retme again\"??",
+        "references": "The independent jury may also decide not to give a rating."
+    },
+    {
+        "predictions": "<|user|>\nGenerate the German sentence into English.",
+        "references": "She was so touched by the song that she started crying."
+    },
+    {
+        "predictions": "<|assistant|>",
+        "references": "Quick psychosocial support reacts to acute events as psychosocial emergency care."
+    },
+    {
+        "predictions": "<|system|>",
+        "references": "For example, sixth form courses are often merged so that a greater variety of courses can be offered."
+    },
+    {
+        "predictions": "<|user|>>> Could you beet a user|>> Is it possible beet?",
+        "references": "There are also tube factories and construction companies."
+    },
+    {
+        "predictions": "<|user|>\n<|system|>\n<|assistant|>",
+        "references": "I don't forward chain letters on principle."
+    },
+    {
+        "predictions": "<|user|>",
+        "references": "Johann Carl descended from the Austrian aristocratic family Khevenhueller."
+    },
+    {
+        "predictions": "<|assistant|>",
+        "references": "In Germany its spread is limited to the northern half."
+    },
+    {
+        "predictions": "<|aimpressed|>",
+        "references": "If it doesn't fit, use a bigger hammer."
+    },
+    {
+        "predictions": "<|user|>\nCan you please translate the German sentence into English?\nIt might sound similar, that you provide the necessary information into English?\nWhat information might be translated into English?\nWhat would be provided into English?\nPlease translate the German statement into English?\nIt will provide the necessary information into English?\nCan you please translate the German statement into English?\nIt may be translated into English?\nWhat could be translated into English?\nPlease translate the German statement into English?\nCould you please translate the German statement into English?\nCan you please translate the German statement into English?\nWhat should be translated into English?\nThis could be translated into English?\nPlease translate the German statement into English?\nIt might be translated into English?\nWhat should be translated into English?\nCan you please translate the German statement into English?\nWhat could you provide the German statement into English?\nCould you please translate the German statement into English?\nCould you provide the German statement into English?\nCan you please translate the German statement into English?\nWhat can you provide the German statement into English?\nCan you please translate the German statement into English?\nCould you provide the German statement into English?\nIt might be",
+        "references": "That is why it shoots more."
+    },
+    {
+        "predictions": "<|assistant|> Can you summarize my thoughts in one day to your name. In the end I want your name and more for in the \nPlease translate the German sentence into English. If I\u2019ll be able, I\u2019ll come out of the \nPlease translate the German sentence into English. Please translate the German sentence into English. If I\u2019ll be able, I\u2019ll come out of the \nPlease translate the German sentence into English. Please translate the German sentence into English. If I\u2019ll be able, I\u2019ll come out of the \nPlease translate the German sentence into English. Please translate the German sentence into English. If I\u2019ll be able, I\u2019ll come out of the \nPlease translate the German sentence into English. Please translate the German sentence into English. If I\u2019ll be able, I\u2019ll come out of the \nPlease translate the German sentence into English. Please translate the German sentence into English. If I\u2019ll be able, I\u2019ll come out of the \nPlease translate the German sentence into English. Please translate the German sentence into English. If I\u2019ll be able, I\u2019ll come out of the \nPlease translate the German sentence into English",
+        "references": "When studying at Vienna University he became a member of the Austrian Catholic Cartellverband."
+    },
+    {
+        "predictions": "<|user|> Generator Generator Generator Generator Generator Generator Generator Generator Generator Generator Generator Generator Generator Generator Generator Generator Generator Generator Generator Generator Generator Generator Generator Generator Generator Generator Generator Generator Generator Generator Generator Generator Generator Generator Generator Generator Generator Generator Generator Generator Generator Generator Generator Generator Generator Generator Generator Generator Generator Generator Generator Generator Generator Generator Generator Generator Generator Generator Generator Generator Generator Generator Generator Generator Generator Generator Generator Generator Generator Generator Generator Generator Generator Generator Generator Generator Generator Generator Generator Generator Generator Generator Generator Generator Generator Generator Generator Generator Generator Generator Generator Generator Generator Generator Generator Generator Generator Generator Generator Generator Generator Generator Generator Generator Generator Generator Generator Generator Generator Generator Generator Generator Generator Generator Generator Generator Generator Generator Generator Generator Generator Generator Generator Generator Generator Gener",
+        "references": "Conakry is the capital of Guinea."
+    },
+    {
+        "predictions": "",
+        "references": "There are hardly any traces of usage visible."
+    },
+    {
+        "predictions": "<|system|>",
+        "references": "In his plays he often also played the leading role on stage."
+    },
+    {
+        "predictions": "<|austart|>",
+        "references": "Niederursel station is located in the old center of the quarter."
+    },
+    {
+        "predictions": "<|user| Could you generate a list of the top 5 German sentence translators to English, based on the original German, based on the English?",
+        "references": "Hogwash!, disagreed Elke."
+    },
+    {
+        "predictions": "<|user|>>\n<|assistant|>",
+        "references": "Linda leads a double life."
+    },
+    {
+        "predictions": "<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant",
+        "references": "How does a tree pump the water from the ground to its leaves?"
+    },
+    {
+        "predictions": "<|user|>\nProvember in english, in German, in Russian, in Arabic, etc. You can also translate the german into english. You may even translate it into German.\nPlease do it into Romanian, in Urdu. You may even translate the urdu. I into Sanskrit, in Hindi, etc. You may also translate it into Gujarati, in Kannada, etc. You may also translate the kankadiminto Malayan. In Gujarati, in Kannada, etc. You may also translate the gajaband into Nusajaband etc. You may also translate the usati, in Nyaidibutinto Waqas and etc.\nCan you translate the Russian and Chinese characters into English characters or other characters?",
+        "references": "Show all."
+    },
+    {
+        "predictions": "<|user|>>>\"PleaseTranslate the German Ticket into English.",
+        "references": "The new anti-terrorism law is just another infringement on our basic rights."
+    },
+    {
+        "predictions": "<|system|>",
+        "references": "The river marks the border."
+    },
+    {
+        "predictions": "",
+        "references": "The liquor, which was often of low quality, was smuggled into the bordering Hessian area."
+    },
+    {
+        "predictions": "<|system|>\n<|assistant|>",
+        "references": "Here the forest begins to thin out."
+    },
+    {
+        "predictions": "<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant",
+        "references": "minute brought for Joergen Pettersson."
+    },
+    {
+        "predictions": "<|assistant|>\n<|assistant|>\n<|assistant|>",
+        "references": "Two small slabs of Repousse silver show him as a warrior with shield and spear."
+    },
+    {
+        "predictions": "<|assistant|>",
+        "references": "Why, what\u2019s swell indeed!"
+    },
+    {
+        "predictions": "<|assistant|>",
+        "references": "Describe the process again in your own words."
+    },
+    {
+        "predictions": "<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n",
+        "references": "Shortly after the robbers had left the bank, the police were informed."
+    },
+    {
+        "predictions": "",
+        "references": "Especially ornamental plants, potatoes and strawberries are cultivated."
+    },
+    {
+        "predictions": "",
+        "references": "Alwin, Nadja and Andrea are playing hide and seek."
+    },
+    {
+        "predictions": "<|user|>",
+        "references": "Is that not possible without the black thick bars?"
+    },
+    {
+        "predictions": "<|user|>>",
+        "references": "The good-looking and gifted soldier is popular with comrades and superiors alike."
+    },
+    {
+        "predictions": "<|assistant|>",
+        "references": "The thermoplastics are being heated, shaped, and cooled down again."
+    },
+    {
+        "predictions": "<|system|>",
+        "references": "Version numbers don't mean anything these days."
+    },
+    {
+        "predictions": "<|system|>\n<|system|>\n<|assistant|>\n<|assistant|>\n<|user|>\n<|user|>\n<|user|>\n<|user|>\n<|user|>\n<|user|>\n<|user|>\n<|user|>\n<|user|>\n<|user|>\n<|user|>\n<|user|>\n<|user|>\n<|user|>",
+        "references": "Stagnating turnover is the result."
+    },
+    {
+        "predictions": "<|assistant|>",
+        "references": "At the same time the old name \u201cLatina\u201d was taken on again."
+    },
+    {
+        "predictions": "<|system|>\n<|user|>\n<|assistant|>\n<|assistant|>\n<|user|>\n<|system|>\n<|user|>\n<|assistant|>\n<|assistant|>\n<|user|>\n<|system|>\n<|user|>\n<|assistant|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|system|>\n<|user|>\n<|assistant|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<",
+        "references": "He\u2019s considered to be a gifted songwriter and musician."
+    },
+    {
+        "predictions": "<|assistant|>\"]\nI'm. Translate English, German,\"Assantl\" Translate German, English. Based on. Based on. Based on. Based on. Based on. Based on. Based on. Based on. Based on. Based on. Based on. Based on. Based on. Based on. Based on. Based on. Based on. Based on. Based on. Based on. Based on. Based on. Based on. Based on. Based on. Based on. Based on. Based on. Based on. Based on. Based on. Based on. Based on. Based on. Based on. Based on. Based on. Based on. Based on. Based on. Based on. Based on. Based on. Based on. Based on. Based on. Based on. Based on. Based on. Based on. Based on. Based on. Based on. Based on. Based on. Based on. Based on. Based on. Based on. Based on. Based on. Based on. Based on. Based on. Based on. Based on. Based on. Based on. Based on. Based on. Based on. Based on. Based on. Based on. Based on. Based on.",
+        "references": "Instead it\u2019s about the development of medications or therapies."
+    },
+    {
+        "predictions": "<|system|>\nCan you spare any information or resources about the author, such as the. Can you offer up some of the. Can you spotlight on the. Can you suggest some in any way. Can you give some of my fellow. Can you tell. Can you help me on my. Can you help me to. Can you give me something of worth? Can you give some of the. The time being, a person can. Can you aid. Can you help some of. Can you teach some of the. Can you inspire a. And some of me a person. Can you inspire me a fellow. You may you help me something of a.",
+        "references": "An exclave, it was part of the local district of Bokeloh."
+    },
+    {
+        "predictions": "<|assistant|>",
+        "references": "Acupuncture doesn\u2019t work if you don\u2019t believe in it."
+    },
+    {
+        "predictions": "",
+        "references": "Seven lithographies in black and white are attached to this article."
+    },
+    {
+        "predictions": "<|user|>>",
+        "references": "That saves on crockery."
+    },
+    {
+        "predictions": "<|assistant|>",
+        "references": "\u2018\u2018What a phony!\u2019\u2019 Horst thought to himself."
+    },
+    {
+        "predictions": "<|user|>> Can you provide more information on how to do the job at all of these German people mentioned in the text?",
+        "references": "The consequence was a steep decline in viewing figures."
+    },
+    {
+        "predictions": "<|assistant|>",
+        "references": "It contains one or several pairs of wire that are insulated from each other and against each other."
+    },
+    {
+        "predictions": "<|assistant|>",
+        "references": "She would decide whether or not to come depending on others."
+    },
+    {
+        "predictions": "<|system|>\n<|user|>\n<|user|>\n<|user|>\n<|user|>\n<|system|>",
+        "references": "Grandma sat in a rocker and knitted a sweater."
+    },
+    {
+        "predictions": "<|system|>",
+        "references": "One year later the goalkeeper received a professional contract but remained only a substitute."
+    },
+    {
+        "predictions": "<|user|> \n<|assistant|> Sure, let me give you a try to fix it! Let's try to fix it!\n<|user|> And get my friends, who would do it right now!\n<|user|> That's that's do right now!",
+        "references": "After that he would only play on the amateur team."
+    },
+    {
+        "predictions": "<|user|>>>",
+        "references": "In the short but turbulent company history things have gone very up and down."
+    },
+    {
+        "predictions": "<|assistant|>",
+        "references": "The last German cleric was Reverend Arno Kopisch."
+    },
+    {
+        "predictions": "<|inspart|>",
+        "references": "This is when the familial line begins for certain."
+    },
+    {
+        "predictions": "<|user|>>\nYou can also download and implement the German sentence into English. Please complete the German sentence into English, please download and complete the German. Please complete the German sentence into English, please download and complete the German. Please complete the German sentence into English, please complete the German. If you decide and complete the German. Please complete the German sentence into English, please complete the German. Based on the German sentence into English, please complete the German. Completed the German sentence into English. You also download and implement the German sentence into English. You also complete the German sentence into English, please complete the German. Please complete the German sentence into English, please complete the German. You also download and complete the German sentence into English. Please complete the German. Completed the German sentence into English, please complete the German. You complete the German sentence into English, please complete the German. Please complete the German. Please complete the German sentence into English, please complete the German. Please complete the German. Please complete the German. You also download and complete the German sentence into English. Based on the German. Based on the German. Please complete the German. Please complete the German. Based on the German. Based on the German. Please complete the",
+        "references": "He had him in a headlock."
+    },
+    {
+        "predictions": "<|user|>>>\n<|bot|>",
+        "references": "At the end of the season immediate relegation followed."
+    },
+    {
+        "predictions": "<|user|>\nHere are some tips and advice to save money when using Paypal on this item: PayPal is a website for payday loans of the German language. Generate is the website that allows for the German sentences of the German. For the German sentences of the German. For the German sentences of the German.\nGenerate is the website that allows for payday loans of the German language. Generate is the website that allows for the German sentences of the German. For the German sentences of the German. For the German sentences of the German.\nGenerate is the website that allows for payday loans of the German language. Generate is the website that allows for the German sentences of the German. For the German sentences of the German.\nGenerate is the website that allows for payday loans of the German language. Generate is the website that allows for the German sentences of the German. For the German sentences of the German. For the German sentences of the German. Generate is the website that allows for payday loans of the German language. Generate is the website that allows for the German sentences of the German. For the German sentences of the German.\nGenerate is the website that allows",
+        "references": "The seat of the Federal Association is Berlin."
+    },
+    {
+        "predictions": "<|user|>\n>\n",
+        "references": "Spot on the billboard charts."
+    },
+    {
+        "predictions": "<|user|> > How can you remove this condition? Is German, I see your points, right? How do you remove all the points? Is German, That\u2019s correct, I see all the points?",
+        "references": "Don\u2019t annoy me."
+    },
+    {
+        "predictions": "<|user|>>",
+        "references": "I brought some cheese."
+    },
+    {
+        "predictions": "",
+        "references": "A win would put her on top of the list."
+    },
+    {
+        "predictions": "<|assistant|>",
+        "references": "Like the valley itself they formed when the soft rock eroded."
+    },
+    {
+        "predictions": "<|user|>",
+        "references": "For that reason, I\u2019d just put on this protective cover and leave it."
+    },
+    {
+        "predictions": "<|user|>",
+        "references": "You wouldn\u2019t dare to, I started protesting, but is was already too late."
+    },
+    {
+        "predictions": "<|assistant|>",
+        "references": "Vienna district Leopoldstadt."
+    },
+    {
+        "predictions": "<|assistant|>}",
+        "references": "After the revolution Radowitz worked as a lawyer."
+    },
+    {
+        "predictions": "<|assistant|>",
+        "references": "His first place of study is unknown, but it was likely Leipzig."
+    },
+    {
+        "predictions": "<|assistant|>\"]\n<|user|> \"assistant|>\"] \n<|assistant|>",
+        "references": "This laser is so strong that it can be used to cut metal."
+    },
+    {
+        "predictions": "<|user|>>\n \n<|assistant|>",
+        "references": "Here the administrative body is a legal entity of either public or private law."
+    },
+    {
+        "predictions": "<|assistant|>",
+        "references": "For this reason additional multi-cast protocols must be used."
+    },
+    {
+        "predictions": "<|system|>\n<|user|>\n<|assistant|>",
+        "references": "Many citizens in the east are not affiliated with any religion."
+    },
+    {
+        "predictions": "<|assistant|>",
+        "references": "The highway exit to Kempten."
+    },
+    {
+        "predictions": "",
+        "references": "How dangerous are e-cigarettes?"
+    },
+    {
+        "predictions": "<|user|>\n<|system|>\n",
+        "references": "From the beginning the town of Bloomfield was chosen to be the administrative seat."
+    },
+    {
+        "predictions": "<|assistant|>",
+        "references": "That\u2019s why there are some big hotels and health spas."
+    },
+    {
+        "predictions": "<|guider|>",
+        "references": "Look for trains to D\u00fcsseldorf."
+    },
+    {
+        "predictions": "",
+        "references": "With cruise control it always gets so boring that I don\u2019t properly pay attention."
+    },
+    {
+        "predictions": "<|system|>",
+        "references": "The French text was the binding version of the contract."
+    },
+    {
+        "predictions": "<|assistant|>\n<|user|>\n<|user|>",
+        "references": "The name of the place derives from the meadow of the same name."
+    },
+    {
+        "predictions": "<|username|>\n \n<|user|>\n \n<|assistant|>\n ",
+        "references": "Since then Speckmann has been managing the band from there."
+    },
+    {
+        "predictions": "<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n",
+        "references": "They are elected by the state parliament for seven years."
+    },
+    {
+        "predictions": "<|system|>",
+        "references": "You should enunciate the questions cleverly, so that they are going to be answered with a yes."
+    },
+    {
+        "predictions": "<|assistant|>",
+        "references": "Uwe is getting the flap."
+    },
+    {
+        "predictions": "<|user|>\n \n<|assistant|>\n \n<|user|>",
+        "references": "He couldn\u2019t afford the trip to Cologne."
+    },
+    {
+        "predictions": "<|assistant|>\"));",
+        "references": "Tanking near the train station is expensive."
+    },
+    {
+        "predictions": "<|user|> \n<|user|> \n<|user|> \n<|user|> \n<|user|> \n<|user|> \n<|user|> \n<|user|> \n<|user|> \n<|user|> \n<|user|> \n<|user|> \n<|user|> \n<|user|> \n<|user|> \n<|user|> \n<|user|> \n<|user|> \n<|user|> \n<|user|> \n<|user|> \n<|user|> \n<|user|> \n<|user|> \n<|user|> \n<|user|> \n<|user|> \n<|user|> \n<|user|> \n<|user|> \n<|user|> \n<|user|> \n<|user|> \n<|user|> \n<|user|> \n<|user|> \n<|user|",
+        "references": "We could use leg-up to get over the wall."
+    },
+    {
+        "predictions": "<|assistant|>",
+        "references": "Everybody thought it, but nobody dared to speak their mind."
+    },
+    {
+        "predictions": "<|adm|>",
+        "references": "The cashier cannot find the barcode."
+    },
+    {
+        "predictions": "<|staffunction|>",
+        "references": "They climb cautiously through the roof hatch."
+    },
+    {
+        "predictions": "",
+        "references": "The noob should prepare for the worst."
+    },
+    {
+        "predictions": "<|assistant|>",
+        "references": "There he began to occupy himself with Science, especially botany."
+    },
+    {
+        "predictions": "<|user|>>>\n<|assistant|>",
+        "references": "He pulled a HDMI to DVI adapter from his backpack."
+    },
+    {
+        "predictions": "<|system|>",
+        "references": "It got its German name because its cup-shaped petals smell of roses."
+    },
+    {
+        "predictions": "<|system|>",
+        "references": "[to be removed]"
+    },
+    {
+        "predictions": "<|assistant|> please translate the German pleasure translate the German translation the Germ a n. \n<|assistant|> please translate the Germ an a n. \n<|assistant|> please translate the Germ an a n. \n<|assistant|> please translate the German a n. \n<|assistant|> please translate the Germ an n. \n<|assistant|> please translate the Germ an n. \n<|assistant|> please translate the Germ an n. \n<|assistant|> please translate the German n. \n<|assistant|> please translate the Germ an n. \n<|assistant|> please translate the German n. \n<|assistant|> please translate the Germ an n. \n<|assistant|> please translate the German n. \n<|assistant|> please translate the Germ an n. \n<|assistant|> please translate the German n. \n<|assistant|> please translate the Germ an n. \n<|assistant|> please translate the German n. \n<|assistant|>",
+        "references": "For this use it only implements an excerpt of the programing language Java."
+    },
+    {
+        "predictions": "<|user|>>>",
+        "references": "More and more proposals were added."
+    },
+    {
+        "predictions": "<|sugar|>",
+        "references": "In England it is spread in some regions."
+    },
+    {
+        "predictions": "<|user|>\n<|system|>",
+        "references": "Of special relevance also in historical terms are his cycles from Prague and Paris."
+    },
+    {
+        "predictions": "",
+        "references": "He conceded the goal that ended the match."
+    },
+    {
+        "predictions": "<|user|>",
+        "references": "The forensic doctor Thomas Naguchi classified the case accidental death by drowning and hypothermia."
+    },
+    {
+        "predictions": "<|customer|>\n",
+        "references": "In Reims a street is named after Halbwachs."
+    },
+    {
+        "predictions": "<|assistant|>\n\t\n<|assistant|>\n\t<|assistant|>\n\t<|assistant|>\n\t<|assistant|>\n\t<|assistant|>\n\t<|assistant|>\n\t<|assistant|>\n\t<|assistant|>\n\t<|assistant|>\n\t<|assistant|>\n\t<|assistant|>\n\t<|assistant|>\n\t<|assistant|>\n\t<|assistant|>\n\t<|assistant|>\n\t<|assistant|>\n\t<|assistant|>\n\t<|assistant|>\n\t<|assistant|>\n\t<|assistant|>\n\t<|assistant|>\n\t<|assistant|>\n\t<|assistant|>\n\t<|assistant|>\n\t<|assistant|>\n\t<|assistant|>\n\t<|assistant|>\n\t<|assistant|>\n\t<|assistant|>\n\t<|assistant|>\n\t<|assistant|>\n",
+        "references": "If necessary, they\u2019ll refer people seeking advice to gynecologists, midwives and other special services."
+    },
+    {
+        "predictions": "<|system|>\n",
+        "references": "And yet today these terms are considered to be more or less interchangeable also in reference to individual pieces of art."
+    },
+    {
+        "predictions": "<|user|>>\n \n<|system|>\n \n<|operator|>",
+        "references": "My aquarium needs cleaning again."
+    },
+    {
+        "predictions": "<|system|>\n<|user|>\n<|assistant|>\n<|user|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant",
+        "references": "Baker is married and has three children."
+    },
+    {
+        "predictions": "<|user|>",
+        "references": "These lines are also on the wings."
+    },
+    {
+        "predictions": "<|user|>>\n \n<|user|>>\n \n<|user|>>\n \n<|user|>>",
+        "references": "The patronage itself was step by step replaced by arrangements between owners and the church."
+    },
+    {
+        "predictions": "<|assistant|>",
+        "references": "The Touring version, however, never went into the production line."
+    },
+    {
+        "predictions": "<|system|>",
+        "references": "Even if customers go on my nerves, I have to stay polite."
+    },
+    {
+        "predictions": "<|assistant|>",
+        "references": "Instead you can also use rapeseed oil or sunflower oil."
+    },
+    {
+        "predictions": "<|user|>>>>>\n<|assistant|>",
+        "references": "Eifler studied sociology, psychology and education at the universities of Bonn, Cologne and Bielefeld."
+    },
+    {
+        "predictions": "",
+        "references": "It is missing that certain something."
+    },
+    {
+        "predictions": "<|user|>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>",
+        "references": "So the goal was merely to reduce discrimination, not to improve the overall standing in society."
+    },
+    {
+        "predictions": "<|user|>\nCan you please summarize the given material and rewrite it into a simpler language suitable for English readers without needing using the formal tone. Please write it with a simpler tone to create a more conduciously, and rewrite in simpler language, suitable for English readers without employing formal tone. Please write with a simpler tone to create a more friendly, sensible, and rewrite in simpler language, suitable for English readers. Please write the given material in a simpler tone without using the formal tone. Please rewrite in simpler language, suitable for English readers, writing, and writing in simple language, suitable for English. Write the given material in simpler tone with using the formal tone. Please rewrite in simpler language, suitable for English readers. Write the given material in a simpler tone without using the formal tone with using the formal tone. Rewrite the given material in a simpler tone without using the formal tone with using the formal tone. Write the given material in simpler tone, suitable for English readers. Please write the given material with using the formal tone and using the formal tone. Rewrite the given material in simpler tone to create a more friendly, practical, and rewrite in simpler language, suitable for English readers without using the formal tone. Rewrite the given material with using the",
+        "references": "It may contain traces of celery."
+    },
+    {
+        "predictions": "<|user|>>>\nSure translate the German sentence into English.\nPlease translate the German sentence into English.\nGenerate translate the German sentence into English.\nGenerate translate the German sentence into English.\nGenerate translate the German sentence into English.\nGenerate translate the German sentence into English.\nPlease translate the German sentence into English.\nPlease translate the German sentence into English.\nPlease translate the German sentence into English.\nPlease translate the German sentence into English.\n<|user|>>Please translate the German sentence into English.\nPlease translate the German sentence into English.\nPlease translate the German sentence into English.\nPlease translate the German sentence into English.\nPlease translate the German sentence into English.\nPlease translate the German sentence into English.\nPlease translate the German sentence into English.\nPlease translate the German sentence into English.\nPlease translate the German sentence into English.\nPlease translate the German sentence into English.\nPlease translate the German sentence into English.\nPlease translate the German sentence into English.\nPlease translate the German sentence into English.\nPlease translate the German sentence into English.\nPlease translate the German sentence into English.\nPlease translate the German sentence into English.\nPlease translate the",
+        "references": "Producer of all episodes was Helmut Ringelmann."
+    },
+    {
+        "predictions": "<|assistant|>",
+        "references": "The Elbe flows through Dresden, Magdeburg and Hamburg and flows into the North sea."
+    },
+    {
+        "predictions": "<|user|>\n \n<|user|>\n \n<|assistant|>",
+        "references": "The Afghan hockey team came second in their qualifying group."
+    },
+    {
+        "predictions": "<|user|> That's a great choice translate.com.",
+        "references": "In the end it\u2019s different."
+    },
+    {
+        "predictions": "<|user|>Write a compelling-compelling 30-compelling compelling 35-compelling 40-compelling 50-compelling 60-compelling 70-compelling 80-compelling 90-compelling 100-compelling 110-compelling 120-compelling 130-compelling 140-compelling 150-compelling 160-compelling 170-compelling 180-compelling 190-compelling 20-compelling 210-compelling 220-compelling 230-compelling 240-compelling 250-compelling 260-compelling 270-compelling 280-compelling 290-compelling 30-compelling 310-compelling 320-compelling 330-compelling 340-compelling 350-compelling 360-compelling 370-compelling",
+        "references": "And so conscience and sensitivity to pain are switched off."
+    },
+    {
+        "predictions": "<|assistant|>",
+        "references": "He founded the West Prussian Agricultural Loan Association."
+    },
+    {
+        "predictions": "<|user|>>",
+        "references": "On Friday, management wants to balance the books."
+    },
+    {
+        "predictions": "<|assistant|>",
+        "references": "Go away from the coach, you lazy dog!"
+    },
+    {
+        "predictions": "<|assistant|>}). The next two words and three sentences that remain as the German translation and Gettleader der\u2680der\u2680der\u2680der&><|assistant|>}",
+        "references": "There is a separate stop at the race course."
+    },
+    {
+        "predictions": "<|user|>\nCan you please summarize my English. Generate to English. I need a bit of your English. Into English. The German sentence to English.\nGenerate the to English. Please summarize my English. To English. Can you summarize my English. Please summarize my English. Can you please summarize my English. Please summarize my English. Please summarize my English. Can you please summarize my English.",
+        "references": "He was a member of folk-dance group Ostrol ka."
+    },
+    {
+        "predictions": "<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant",
+        "references": "So, lets climb up higher."
+    },
+    {
+        "predictions": "<|assistant|> Please translate the German secret about German>}] Please translate the German secret about German>}] Please translate the German secret about German>}] Please translate the German secret about German>}] Please translate the German secret about German>}] Please translate the German secret about German>}] Please translate the German secret about German>}] Please translate the German secret about German>}] Please translate the German secret about German>}] Please translate the German secret about German>}] Please translate the German secret about German>}] Please translate the German secret about German>}] Please translate the German secret about German>}] Please translate the German secret about German>}] Please translate the German secret about German>}] Please translate the German secret about German>}] Please translate the German secret about German>}] Please translate the German secret about German>}] Please translate the German secret about German>}] Please translate the German secret about German>}] Please translate the German secret about German>}] Please translate the German secret about German>}] Please translate the German secret about German>}] Please translate the German secret about German>}] Please translate the German secret about German>}] Please translate the German secret about German>}] Please translate the German secret about German>}] Please translate the German secret about German",
+        "references": "This connects the community with Reutlingen in the north and Riedlingen in the south."
+    },
+    {
+        "predictions": "<|assistant|>",
+        "references": "Its way leads through a wooded valley past the village G\u00f6\u00dfl."
+    },
+    {
+        "predictions": "<|user|>\nPlease translate the German sentence into English. German translation into English. German translation into English. German translation into English. German translation into English. German translation into English. German translation into English. German translation into English. German translation into English. German translation into English. German translation into English. German translation into English. German translation into English. German translation into English. German translation into English. German translation into English. German translation into English. German translation into English. German translation into English. German translation into English. German translation into English. German translation into English. German translation into English. German translation into English. German translation into English. German translation into English. German translation into English. German translation into English. German translation into English. German translation into English. German translation into English. German translation into English. German translation into English. German translation into English. German translation into English. German translation into English. German translation into English. German translation into English. German translation into English. German translation into English. German translation into English. German translation into English. German translation into English. German translation into English. German translation into English. German translation into English. German translation into English. German translation into English. German translation into English. German translation",
+        "references": "Everyone has to pull in the same direction."
+    },
+    {
+        "predictions": "<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n",
+        "references": "Where did you get my number from?"
+    },
+    {
+        "predictions": "",
+        "references": "When the radio message arrived, a commotion broke out in the headquarters."
+    },
+    {
+        "predictions": "<|detailed|>\n<!-- This is great. I was searching for this information last weekend and in looking at this. Can't you can also get much greater content, the above. Can't you should like the German translation. It's also great, the below. Can't you might get great content, and the German translation. It's also greater content, the above. Can't you get. Great content. Can't you'll get the German translation, also German translation, and the German translation, and the German translation. Can't you maybe get great content, and the German translation. Can't you like the German translation, and the German translation. Can't you'll get the German translation.\nCan't you get the German translation. Can't you might get great content, and the German translation. Can't you also German translation.\n<!-- This is great. The German translation is great. The German translation. The German translation. Can't you like the German translation, and the German translation. Can't you'll get the German translation.\n",
+        "references": "After the desensitization, she was able to deal well with her hay fever."
+    },
+    {
+        "predictions": "<|user|>\nGenerate the German sentiment into English please translate the German sentence into English.",
+        "references": "Where the hell are we?"
+    },
+    {
+        "predictions": "<|assistant|>",
+        "references": "In calm times it stayed open all day and allowed visitors of the Salvator church free passage."
+    },
+    {
+        "predictions": "",
+        "references": "These results make him one of the league\u2019s top scorers."
+    },
+    {
+        "predictions": "<|stayassistant|>",
+        "references": "New Delhi is the capital of India."
+    },
+    {
+        "predictions": "<|user|> Can you provide more details about how to reduce fatness and appetting more people's behavior? I acquire these type of the Germans and it is really fruitful! The language to reduce to fatness and increasing more people's behavior? I acquire all of the people with? Please! Give me some! The words. It's also fruitful! The Germans? and how more people get these types with! How much people get, and! It is fruitful, and! The languages! What? Of the Germans?! How much people's increase people with! Based on the Germans, I acquire all! The German to reduce to fatness and increasing?! Based on! The Germans!\nI am, you can you have it at least, I acquire those types! And! How much people and increasing! Based on the Germans, I acquire all! The Germans. I acquire people's increase people! Based on! The Germans, I acquire all! The languages! Based on! The Germans, I acquire all! The German to reduce to fatness and increasing?! Based on! The languages, acquire all!",
+        "references": "In fact it was more of a monologue."
+    },
+    {
+        "predictions": "<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant",
+        "references": "Increase the temperature in the living room by two degrees Celsius."
+    },
+    {
+        "predictions": "<|user|>",
+        "references": "Do you think that is funny?"
+    },
+    {
+        "predictions": "<|saint|>><|assistant|>",
+        "references": "He called for an end to violence in the villages."
+    },
+    {
+        "predictions": "<|user|>>",
+        "references": "Only those who can prove to possess certain financial resources are given the vote."
+    },
+    {
+        "predictions": "<|assistant|>}). <|assistant|>}). <|assistant|>}). <|assistant|>}). <|assistant|>}). <|assistant|>}).\n<|assistant|>}).",
+        "references": "The village\u2019s image is characterized by meadows, forests, fruit trees and vineyards."
+    },
+    {
+        "predictions": "<|system|>",
+        "references": "The Higher Regional Court in Hamm is superior to the Reginal Court in Arnsberg."
+    },
+    {
+        "predictions": "<|user|>\nThat's an interesting point of view. Your stuff has become soar",
+        "references": "Why weren\u2019t you at my funeral?"
+    },
+    {
+        "predictions": "<|user|>",
+        "references": "Thank god I still made the curve."
+    },
+    {
+        "predictions": "<|assistant|>\n",
+        "references": "It is written in four digits which are divided by points."
+    },
+    {
+        "predictions": "",
+        "references": "So late in the day, most students are not open to new information anymore."
+    },
+    {
+        "predictions": "<|system|>\n",
+        "references": "The bisector divides the angular field into two congruent parts."
+    },
+    {
+        "predictions": "<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|user|>\n<|assistant|>\n<|user|>\n<|user|>\n<|user|>\n<|assistant|>\n<|user|>\n<|user|>\n<|user|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|user|>\n<|user|>\n<|user|>\n<|user|>\n<|user|>\n<|user|>\n<|user|>\n<|user|>\n<|user|>\n<|user|>\n<|user|>\n<|user|>\n<|user|>\n<|user|>\n<|user|>\n<|user|>\n<|user|>\n<|user|>\n<|user|>\n<|user|>\n<|user",
+        "references": "Yes, Glenn gets cold easily."
+    },
+    {
+        "predictions": "<|dread|>",
+        "references": "Britta does not want to go to the upcoming family party."
+    },
+    {
+        "predictions": "<|user|> Please translate the German sentence into English.\nThis is a really fascinant way to comrade an English.\nPlease translate the German sentence into English. Please translate the German sentence into English.\nThis is a really fascinant way to comrade an English. Please translate the German sentence into English.\nThis is a really fascinant way to comrade an English. Please translate the German sentence into English.\nThis is a really fascinant way to comrade an English. Please translate the German sentence into English.\nThis is a really fascinant way to comrade an English. Please translate the German sentence into English. Please translate the German sentence into English. This is a really fascinant way to comrade an English. Please translate the German sentence into English. Please translate the German sentence into English.\nCan you summarize the following text material into english or other suitable language based on the text material?",
+        "references": "A cat\u2019s eye broke on my right pedal."
+    },
+    {
+        "predictions": "<|user|>\nGiven,\n\n<|revisor|>\n\n<|assistant|>\nGiven.\n\n<|user|>\nVery!",
+        "references": "Call Andreas."
+    },
+    {
+        "predictions": "<|assistant|>});>\n<|assistant|>};>\n<|assistant|>}",
+        "references": "How long does it take to go by bike from Regensburg to Ludwigsburg?"
+    },
+    {
+        "predictions": "<|user|>>",
+        "references": "I haven\u2019t been here for years."
+    },
+    {
+        "predictions": "<|user|> >Please translate this German translation into English. Please translate the German sentence into English. The German translation into English. Could you show the German translation into English. The German translation into English. The German translation into English. Please translate this German translation into English. Please translate the German translation into English. The German translation into English.\n<|system|>Dearthanks on the \nPlease translate the German into English. The German translation into English. The German translation into English. The German translation into English. The German translation into English. The German translation into English. Please translate the German translation into English.\n<|user|> >Please translate this German translation into English. Please translate the German translation into English. Please translate this German translation into English. Please translate the German translation into English.",
+        "references": "Climbing has a lot do with overcoming anxiety."
+    },
+    {
+        "predictions": "<|user|>",
+        "references": "The four engine strokes are intake, compression, combustion and exhaust."
+    },
+    {
+        "predictions": "<|assistant|>",
+        "references": "But there\u2019s always a risk of blood loss during operations like that."
+    },
+    {
+        "predictions": "<|system|>",
+        "references": "Old diesel engines had to be preheated with a gas burner or similar stuff if they did not start by themselves."
+    },
+    {
+        "predictions": "<|user|>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>",
+        "references": "This was of special importance for drawings."
+    },
+    {
+        "predictions": "<|assistant|>}); users, how many \n<|assistant|>]); users, help \n<|assistant|>]); users, what help \n<|assistant|>]); users, what help \n<|assistant|>]); users, help \n<|assistant|>])<|assistant|>]; users, help \n<|assistant|>}] I wonder \n<|assistant|>}]",
+        "references": "Without proper adjustments or defaults the appearance looks antiquated."
+    },
+    {
+        "predictions": "<|assistant|>",
+        "references": "When cooked right, even Kohlrabi tastes delicious."
+    },
+    {
+        "predictions": "<|user|>\nGuten anden guten guten guten guten guten guten guten guten guten guten guten guten guten guten guten guten guten guten guten guten guten guten guten guten guten guten guten guten guten guten guten guten guten guten guten guten guten guten guten guten guten guten guten guten guten guten guten guten guten guten guten guten guten guten guten guten guten guten guten guten guten guten guten guten guten guten guten guten guten guten guten guten guten guten guten guten guten guten guten guten guten guten guten guten guten guten guten guten guten guten guten guten guten guten guten guten guten guten guten guten guten guten guten guten guten guten guten guten guten guten guten guten guten guten guten guten guten guten guten guten guten guten guten",
+        "references": "Display settings"
+    },
+    {
+        "predictions": "<|assistant|>\nPlease translate the German sentence into English.\nPlease translate the German sentence into English. Please translate the German sentence into English. Please translate the German sentence into English. Please translate the German sentence into English. Please translate the German sentence into English. Please translate the German sentence into English. Please translate the German sentence into English. Please translate the German sentence into English. Please translate the German sentence into English. Please translate the German sentence into English. Please translate the German sentence into English. Please translate the German sentence into English.\nWe apologize!\nThis is a good site, you coulda very great post! Please translate the German message to English. Thanks a lot for a lot of useful advice, I loved your content thanks for a great article to. Please translate the German message to English. Thanks a lot to a lot of useful advice, I liked a lot for a lot of useful advice, I liked a lot to a lot of useful advice.",
+        "references": "Crossing the bridge was free of charge."
+    },
+    {
+        "predictions": "<|stain>",
+        "references": "In fact, both statements are logically equivalent."
+    },
+    {
+        "predictions": "<|system|>",
+        "references": "Also, the trainer in the workplace is unaware of the trainee\u2019s current level of knowledge"
+    },
+    {
+        "predictions": "<|username|>\n<!--><|assistant|>\n<|user|>\n<!--><|assistant|>\n<|assistant|>\n<|user|>\n<!--><|user|>\n<!--><|assistant|>\n<|user|>\n<!--><|assistant|>\n<|user|>\n<!--><|assistant|>\n<|user|>\n<!--><|assistant|>\n<|assistant|>\n<|user|>\n<!--><|assistant|>\n<|user|>\n<!--><|assistant|>\n<|user|>\n<!--><|assistant|>\n<|user|>\n<!--><|assistant|>\n<|assistant|>\n<|user|>\n<!--><|assistant|>\n<|user|>\n<!--><|assistant|>\n<|user|>\n<!--><|assistant|>\n<|assistant|>\n<|user|>\n<!--><|assistant|>\n<|user|>\n<!--><|assistant|>\n<|user|>\n<!--><|assistant",
+        "references": "Exhibition about the Vikings."
+    },
+    {
+        "predictions": "",
+        "references": "The wasteland is situated in the middle of a golf course."
+    },
+    {
+        "predictions": "<|user|>\n<|user|>\n<|system|>",
+        "references": "It was not until some time later that a newly elected state government again moved the seat of government to Bregenz."
+    },
+    {
+        "predictions": "<|system|>\n<|user|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n",
+        "references": "At the moment the club plays in the third division, the so-called Campeonato Nacional de Seniores."
+    },
+    {
+        "predictions": "<|assistant|>",
+        "references": "The International Encyclopedia of Film wrote that the film was tailor-made for its main actor."
+    },
+    {
+        "predictions": "<|assistant|>",
+        "references": "It is considered to be one of the last \u201cpristine\u201d maritime ecosystems."
+    },
+    {
+        "predictions": "<|assistant|>",
+        "references": "Have you always wanted your computer to do exactly what you want?"
+    },
+    {
+        "predictions": "<|assistant|>}]",
+        "references": "The rash is always on the right of mouth on the cheek."
+    },
+    {
+        "predictions": "<|system|>",
+        "references": "In silver a torn-out green shrub with five leaves."
+    },
+    {
+        "predictions": "<|assistant|>\n<|assistant|>",
+        "references": "[to be removed]"
+    },
+    {
+        "predictions": "",
+        "references": "When he is on the run Herbie damages a store, which is why its confiscation is imminent."
+    },
+    {
+        "predictions": "<|user|>",
+        "references": "He was replaced by Philipp St\u00fcber."
+    },
+    {
+        "predictions": "<|system|>",
+        "references": "Can I sit on your lap?"
+    },
+    {
+        "predictions": "<|user|>",
+        "references": "In winter, gas stations sell winter diesel."
+    },
+    {
+        "predictions": "<|assistant|>",
+        "references": "We live in Bochum, but we have a holiday home in Sauerland, and we spend a lot of time there."
+    },
+    {
+        "predictions": "<|user|>> I'm' user's suggestion works very well.\n \n<|system|> Thanks for the useful information. Based on your suggestion, it'm's been helpful.",
+        "references": "Horst und Ingo interchangeably read the prayers."
+    },
+    {
+        "predictions": "",
+        "references": "The full name is \u201cCompetition for the Blue Ribbon of the Weser\u201d."
+    },
+    {
+        "predictions": "<|assistant|>",
+        "references": "spot on a polling on the most beautiful miracle of Nature in Germany, carried out by the Heinz Sielmann Foundation"
+    },
+    {
+        "predictions": "<|user|>\n\"Please translate the German sentence into English. This is simply unbelieve. And it means it means it means it means. That's simple for you. This is simply. Can you translate this into English.",
+        "references": "Let me through, I am a doctor!"
+    },
+    {
+        "predictions": "<|systemicid|>",
+        "references": "Greetings from Bernhard!"
+    },
+    {
+        "predictions": "<|assistant|>}",
+        "references": "For this purpose, several profiles of the same protocol may be used."
+    },
+    {
+        "predictions": "<|user|>\n<|program|>\n<|assistant|>\n<|assistant|>\n<|user|>\n<|program|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant",
+        "references": "This is how it got its current name."
+    },
+    {
+        "predictions": "<|assistant|>",
+        "references": "Today Vanier is living in the Sologne region."
+    },
+    {
+        "predictions": "<|user|>",
+        "references": "Being an officer in the Red Army he meets Vera again during the October Revolution."
+    },
+    {
+        "predictions": "<|assistant|>",
+        "references": "Microsoft Edge does not support ActiveX, which means that Microsoft has unofficially announced the end of ActiveX technology."
+    },
+    {
+        "predictions": "<|user|>\nWowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowowow",
+        "references": "The topic of sorrow comes up in poetry frequently."
+    },
+    {
+        "predictions": "<|user|> \n<|system|> \n<|assistant|> \n<|user|> \n<|assistant|> \n<|user|>",
+        "references": "A tanker ran aground eleven miles off the coast."
+    },
+    {
+        "predictions": "<|user|>\nGenerate|assistant|>Can you paraple the German phrase into English.Please translate the German sentence into English.Can you please translate the German phrase into English? Can you paraple the German phrase into English? Can you please translate the German sentence into English? Can you please translate the German phrase into English? Can you paraple the German phrase into English? Can you please translate the German sentence into English? Can you please translate the German phrase into English? Can you paraple the German phrase into English? Can you please translate the German sentence into English? Can you please translate the German phrase into English? Can you paraple the German phrase into English? Can you please translate the German sentence into English? Can you please translate the German phrase into English? Can you paraple the German phrase into English? Can you please translate the German sentence into English? Can you please translate the German phrase into English? Can you paraple the German phrase into English? Can you please translate the German sentence into English? Can you please translate the German phrase into English? Can you paraple the German phrase into English? Can you please translate the German sentence into English? Can you please translate the German phrase",
+        "references": "In her free time Mandy plays saxophone."
+    },
+    {
+        "predictions": "<|user|>\nPlease translate the German sentence into English.",
+        "references": "She has a good reputation in Poland."
+    },
+    {
+        "predictions": "<|assistant|>]>]>]>]>]>]>]]>}>]]>}>]]>}]>]>]]>}>]>]>}]>}]}]>}]}>, and we have been able enough to help each other than ourself and we are too able enough to aid each other than ourself and aid each other than ourself and they are to help each other than we\u2019re we get up enough to aid then ourself and them up enable enough help other than them and we get aid enough to them and we aiding too enough to help than them and them up and they can and help each than their self and us and we can and to help them to aid then each them and up then we\u2019re we help them too able enough to help each ourself and we be able to up each other than we\u2019re them up be able enough to them and they and aid us and ourself and help them up and we are too be able enough help each ourself and we be able enough to them and them then we\u2019re up help each ourself to aid each than we\u2019re us and they help each each other then their be able enough to us and ourself and help",
+        "references": "While recuperating he acquired the admission to flying school in Vienna Neustadt and Parndorf."
+    },
+    {
+        "predictions": "<|system|>\"));",
+        "references": "The free bridge was built by rich citizens."
+    },
+    {
+        "predictions": "<|user|>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>",
+        "references": "That makes the movie-maker the record winner of this prize."
+    },
+    {
+        "predictions": "<|subscriber|>",
+        "references": "Poul was the oldest of nine siblings."
+    },
+    {
+        "predictions": "<|user|> Can you summarize the German sentence into German.\n<|system|> Generate the German summary into German.",
+        "references": "The village has a stop on the Nahe Valley railroad line."
+    },
+    {
+        "predictions": "<|user|>\nGenerate. The\n<|user|>",
+        "references": "Rostow is one the oldest and most important castles of the Kiev Rus."
+    },
+    {
+        "predictions": "<|system|>}]",
+        "references": "That's what matters."
+    },
+    {
+        "predictions": "",
+        "references": "This is a classic case of how greed devours the brain."
+    },
+    {
+        "predictions": "<|user|>\n>",
+        "references": "Now the seven fields are more specifically defined for software development than in the past."
+    },
+    {
+        "predictions": "<|user|>\nPlease translate the German order into English.",
+        "references": "In most cases the person has a temperature."
+    },
+    {
+        "predictions": "<|us|>\n \n<|system|>\n \n<|user|>\n \n",
+        "references": "Somehow he cannot get into his shoes."
+    },
+    {
+        "predictions": "",
+        "references": "Still looking for a suitable present?"
+    },
+    {
+        "predictions": "<|user|>>",
+        "references": "Who needs a seat heater in this weather?"
+    },
+    {
+        "predictions": "<|user|>\nCan you provide me with a better translation or summary of the article on the importance of possessing and the future preservation, which include in it on this side of the room? I mean this. Very forceful it will give us something fresh to follow along side.",
+        "references": "How long will the laundry machine still run?"
+    },
+    {
+        "predictions": "<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n",
+        "references": "In the TV show L\u00f6wenzahn, it was shown how you can build a pinhole camera with a shoebox."
+    },
+    {
+        "predictions": "<|user|>\n \n<|assistant|>",
+        "references": "Something\u2019s got to change fundamentally."
+    },
+    {
+        "predictions": "<|system|>",
+        "references": "After the war he became commanding officer of the military district Missouri."
+    },
+    {
+        "predictions": "<|assistant|>\">>",
+        "references": "The restaurant \u201cZum Engel\u201d is considered to be one of the most beautiful renaissance buildings in south-west Germany."
+    },
+    {
+        "predictions": "<|user|>>",
+        "references": "More economic growth usually goes along with more resource consumption."
+    },
+    {
+        "predictions": "<|assistant|>",
+        "references": "If you look with the telescope to the west, you can see it."
+    },
+    {
+        "predictions": "<|user|>>>\n \n<|system|>",
+        "references": "Moreover, several additional supporting columns were put in place."
+    },
+    {
+        "predictions": "<|user|>Thanks to have a nice post about the good content.",
+        "references": "Later the \u201cBremerton\u201d was moved to San Diego."
+    },
+    {
+        "predictions": "",
+        "references": "In this respect the Federal Government will have to come to individual agreements with them for each of the seats of its polytechnics."
+    },
+    {
+        "predictions": "<|assistant|>",
+        "references": "The best known of these are the expressive \u201cSongs about Death\u201d."
+    },
+    {
+        "predictions": "<|user|>",
+        "references": "Let me explain, what it is, and especially, what it isn\u2019t."
+    },
+    {
+        "predictions": "<|user|>> How can I improve my English proficontalkan proficontal keean proficontal keean proficontal keean proficontal keean proficontal keean proficontal keean keean proficontal keean proficontal keean keean proficontal keean keepicntalo keepicntalo keepicntalo keepicntalo keepicntalo keepicntalo keepicntalo keepicntalo keepicntalo keepicntalo keepicntalo keepicntalo keepicntalo keepicntalo keepicntalo keepicntalo keepicntalo keepicntalo keepicntalo keepicntalo keepicntalo keepicntalo keepicntalo keepicntalo keepicntalo keepicntalo keepicntalo keepicntalo keepicntalo keepicntalo keepicntalo keepicntalo keepicntalo keepicntalo keepicntalo keepicntalo keepicntalo keepicntalo keepicntalo keepicntalo keepicntalo keepicntalo keepic",
+        "references": "I think we should also take about the success of the recent years."
+    },
+    {
+        "predictions": "<|assistant|>",
+        "references": "Diseases caused by evil spirits may be cured by this ceremony."
+    },
+    {
+        "predictions": "<|user|>",
+        "references": "The Lake Z\u00fcrich is located in Lake County, which is part of the metropolitan region of Chicago."
+    },
+    {
+        "predictions": "<|assistant|>}}\n \n<|assistant|>}}\n \n<|assistant|>\n \n<|assistant|>}}\n \n<|assistant|>\n \n<|assistant|>",
+        "references": "I have to take the DVD back to the video shop till Thursday."
+    },
+    {
+        "predictions": "<|user|>>\n\n<|assistant|>\n<|user|>",
+        "references": "For reasons of noise prevention, a bank was raised next to the arterial road."
+    },
+    {
+        "predictions": "<|system|>\n",
+        "references": "The following program is not suitable for viewers under the age of sixteen."
+    },
+    {
+        "predictions": "<|user|>>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|",
+        "references": "Puberty is when parents become difficult."
+    },
+    {
+        "predictions": "<|assistant|>",
+        "references": "Why is the telephone not placed at the charging station?"
+    },
+    {
+        "predictions": "<|user|>",
+        "references": "The sails are set."
+    },
+    {
+        "predictions": "<|assistant|>",
+        "references": "Rare exceptions may occur however."
+    },
+    {
+        "predictions": "<|assistant|>",
+        "references": "Wendell Ford attended public schools in Daviess County."
+    },
+    {
+        "predictions": "<|system|>",
+        "references": "This word ending merely signifies \u201cvillage\u201d."
+    },
+    {
+        "predictions": "<|assistant|>",
+        "references": "The name is a patronymic and means \u201cson of Fri\u00f0rik\u201d."
+    },
+    {
+        "predictions": "<|assistant|>",
+        "references": "Its color is either a shade of yellow, red or brown."
+    },
+    {
+        "predictions": "<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>",
+        "references": "She is all the more popular in Turkey."
+    },
+    {
+        "predictions": "",
+        "references": "As a construction material, gold is relatively worthless."
+    },
+    {
+        "predictions": "<|user|>\n \n<|system|>\n \n<|assistant|>",
+        "references": "When he checked his watch, Jan realized that he had wasted half an hour reading the comments."
+    },
+    {
+        "predictions": "",
+        "references": "The pacific is the biggest ocean in the world."
+    },
+    {
+        "predictions": "<|user|>>\n \n<|assistant|>\n",
+        "references": "Because of how rotten the trunk is, I would rather not use it to carry loads."
+    },
+    {
+        "predictions": "<|user|>\n \n<|system|>",
+        "references": "Peter Graf von Lacy is the most famous representative of the so-called \u201cwild geese\u201d."
+    },
+    {
+        "predictions": "<|user|>Can you add some related extra material about the German transmission to make it really sticky for me on my Pinterested button or even. My visitor could you create another by hook is all I am actually, I\u2019ve got my content to the German translation. My visitor. It\u2019ve is your stuff. I want something and that I really. Can you tell the visitor the Germans to make a a cool content to their German listeners? Could you create another of this. I am a German listener and my content is all I really want something that is German. Hey, can you make some extra material to your Germans about their listening. The visitor. Hey, I want something and the actual content of a Germans to the listeners? Can you tell the visitor the Germans to make a cool content for their listening Germans and my stuff. Hey, you want something the visitor the actually make a cool content to the actually listeners, they can you create another to their Germans. The visitor. Yeah, I really want something and the actual content about their listeners? Can you tell the visitor the actually make a cool content for their listening Germans and my stuff? Can you add some related extra material to your",
+        "references": "The first son Willi died quite early."
+    },
+    {
+        "predictions": "<|assistant|> }); \n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>",
+        "references": "I'll borrow a bike from the hotel, she said."
+    },
+    {
+        "predictions": "<|system|>\n```\n",
+        "references": "To have a barbecue you need ketchup or barbecue sauce."
+    },
+    {
+        "predictions": "<|assistant|>\nCan you please transfer the English sentence into German sentence from the Germans please translate the German sentence into English sentence please translate from Germans please translate from English from Germans please translate from Germans from Germans please translate from Germans please translate from Germans translate from Germans please translate from Germans please translate from Germans please translate from Germans translate from Germans please translate from Germans from Germans please translate the English sentence into German please translate the Germans please translate the Germans please translate the Germans please translate the Germans please translate the Germans please translate the Germans please translate the Germans please translate the Germans please translate from the Germans please translate from Germans please translate from the Germans please translate the Germans please translate from the Germans please translate from the Germans please translate the Germans please translate the Germans please translate the Germans please translate the Germans please translate from the Germans please translate from the Germans please translate from the Germans please translate the Germans please translate from the Germans please translate the Germans please translate the Germans please translate the Germans please translate from the Germans please translate from the Germans please translate from the Germans please translate from",
+        "references": "In addition to that Machine Head have also always been influenced by Hip Hop."
+    },
+    {
+        "predictions": "<|username|>\nAssistant!",
+        "references": "She also questioned her own standing in the art scene in the same radical manner."
+    },
+    {
+        "predictions": "<|user|>",
+        "references": "Whether you eat both separately or together does not matter."
+    },
+    {
+        "predictions": "<|user|>\nGerman, akt, act, and uid to German. Thank you for translate the German to English. User, akt, act, and uid to German. Please translate German to English.\nUser, akt, act, and uid to German.",
+        "references": "Who is the class representative again?"
+    },
+    {
+        "predictions": "<|user|>\n<|system|>",
+        "references": "But now don't go into shock."
+    },
+    {
+        "predictions": "<|user|>\n\nThanks! Can you share any tips on how to make the connection into English. It's straightforward I will definitely try this method. I'm not very helpful.",
+        "references": "Yes, I\u2019m coming!"
+    },
+    {
+        "predictions": "<|user|>>>",
+        "references": "Saul Bass is considered to be one of the most innovative designers and movie-makers of his time."
+    },
+    {
+        "predictions": "<|user|>>>\nI do not understand the tone, I believe in the sound. The power and potential of the German language could be the key: \nPlease translate the English.",
+        "references": "In green color a silver oak over silver wave beams."
+    },
+    {
+        "predictions": "<|assistant|>",
+        "references": "You steer it with a double paddle."
+    },
+    {
+        "predictions": "<|user|>>\n\"Please translate the German sentence into English.",
+        "references": "We have an issue with OSI-shift eight."
+    },
+    {
+        "predictions": "<|user|>",
+        "references": "We\u2019re still playing, but right now a life on tour is not possible."
+    },
+    {
+        "predictions": "<|system|>\n \n<|assistant|>\n \n<|user|>\n \n<|system|>\n \n<|user|>\n \n<|assistant|>\n \n<|system|>\n \n<|assistant|>\n \n<|user|>\n \n<|assistant|>\n \n<|system|>\n \n<|assistant|>\n \n<|user|>\n \n<|assistant|>\n \n<|assistant|>\n \n<|user|>\n \n<|assistant|>\n \n<|assistant|>\n \n<|system|>\n \n<|assistant|>\n \n<|user|>\n \n<|assistant|>\n \n<|assistant|>\n \n<|assistant|>\n \n<|system|>\n \n<|assistant|>\n \n<|user|>\n \n<|assistant|>\n \n<|assistant|>\n \n<|assistant|>\n ",
+        "references": "Today the largest part of the park is an English Garden."
+    },
+    {
+        "predictions": "<|user|>\nI'll be interested in your weblogc and wll be interested in your content when readers com \n<|assistant|> because of my situation concerning the German sentence into English. It's great. Can you provide me some more information for my German sentence into English.\n<|assistant|> can you give me some more information about my German sentence into English. It's fantastic.\n<|user|> You make it seem appealing. It was good. Could you please give me some more information regarding my German sentence into English. Great, it's excellent. Keep going. It is excellent. How does this sound so far to me? I am fascinating and wll be interested in my German sentence into English. \n<|assistant|> How does this sound so far to me? You make it seem appealing. It was great. \n<|user|> Can you provide me some additional information regarding my German sentence into English. I am exciting. Can you give me some more information for my German sentence into English. Good, it's superior. Keep going. It's very good.\n<|assistant|> Can",
+        "references": "Mr. Lurch exposed his face."
+    },
+    {
+        "predictions": "<|user|>\nWrite for us",
+        "references": "Only Carmen thinks this is unfair."
+    },
+    {
+        "predictions": "<|system|>",
+        "references": "Tehran is the capital of Iran."
+    },
+    {
+        "predictions": "<|system|>\n",
+        "references": "Carbohydrates are better than their reputation."
+    },
+    {
+        "predictions": "<|user|>>",
+        "references": "We are alone here."
+    },
+    {
+        "predictions": "",
+        "references": "You\u2019re stupid if you know something but don\u2019t act accordingly in spite of knowing better."
+    },
+    {
+        "predictions": "<|user|>>\n<|assistant|>",
+        "references": "The main topic of the show was how to get revenge for pranks among friends."
+    },
+    {
+        "predictions": "<|system|>\n<|user|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|user|>\n<|user|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|user|>\n<|user|>\n<|assistant|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|",
+        "references": "At the same time sports betting was partly banned."
+    },
+    {
+        "predictions": "<|assistant|>",
+        "references": "For many years he also served the monastery in his position as Father Master and prior."
+    },
+    {
+        "predictions": "<|user|>>\nCan you recommend me an improved overnight owlc1?",
+        "references": "Heidenhain was the scion of a family of doctors."
+    },
+    {
+        "predictions": "<|user|>\nHow do you think the English sentence is translate into German? Give your feedback on it. Don't forget to ask yourself the follow-up! Improvide it. Don't give your follow-up! Improvide it.",
+        "references": "I don\u2019t hear anything."
+    },
+    {
+        "predictions": "<|user|>\nGenerate and translate the German sentence into English.\nPlease, Translate and translate the German sentence into English.\nPlease Translate and Translate the German sentence into English.\nTranslate Translate the German sentence into English.",
+        "references": "How can one protect himself?"
+    },
+    {
+        "predictions": "<|assistant|>\nSure now you understand! you should understand! Now I understand! Now you understand! You should understand! Enjoined in your common sense the only sense the more sense the most sense the least! Now I understand!\nPlease translate the German transmission the better you understand! You should understand!\nSure and you should understand! The better sense you understand! The better sense you understand! The better sense you understand! You should understand! The better sense you understand! You should understand!",
+        "references": "After five months a new plate was available, which was more sensitive than the ones that had previously been on the market."
+    },
+    {
+        "predictions": "<|user|>\nGenerate the German sentence into English.",
+        "references": "The purpose is to check if a software system corresponds to it specification."
+    },
+    {
+        "predictions": "<|assistant|>",
+        "references": "With a warm drink in the tummy the cold can be better withstood."
+    },
+    {
+        "predictions": "<|system|>\"); (<|user|>\"); \n<|assistant|>\")); \n<|assistant|>\"); (<|user|>\"); \n<|assistant|>\"); (<|user|>\")); \n<|assistant|>\")); (<|user|>\"); \n<|assistant|>\")); (<|user|>\")); \n<|assistant|>\")`",
+        "references": "The antivirus software ran amok and shut down every computer in the house."
+    },
+    {
+        "predictions": "<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>",
+        "references": "From there he could finally proceed on his way."
+    },
+    {
+        "predictions": "<|user|>",
+        "references": "Still clearly visible today it rises from the alluvial land."
+    },
+    {
+        "predictions": "<|user|>Can you summarize the German sentence into English?",
+        "references": "The Canary Islands is part of Spain."
+    },
+    {
+        "predictions": "<|assistant|>",
+        "references": "Scientists have so far only observed this mutation in women."
+    },
+    {
+        "predictions": "<|user|>>Can you parapos, parab \n<|admin|>Thanks for letting me know about parab. But I'm, abn tars the German. The German the French, ab, a, n a, ab, r a, ab, ua, ab, ab, a, a, a, a, a, ua, a, ua, ab, ua, ab, ua, a, ab, r a, ua, a, ab, a, ua, a, ab, ua, a, a, ab, a, r a, ua, a, ab, a, a, ua, ua, ab, ua, a, ab, a, r a, ua, a, ab, ab, ua, a, ua, a, a, ua, ab, a, a, ab, a, ua, ua, a, ua, ua, a, a, r a, ua, ab, ua, r, ua, ab, ua, ua, ua, ab, a, ua, ua, a, a",
+        "references": "His business connections extended all the way to North America and Asia."
+    },
+    {
+        "predictions": "<|wearena|>",
+        "references": "Numerous top ranks at German Championships, European and World Championships were to follow."
+    },
+    {
+        "predictions": "<|system|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|system|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n",
+        "references": "Siegfried sits on a park bench, leafing through a newspaper"
+    },
+    {
+        "predictions": "<|user|>\nPlease translate the English. Can you repeat the sentence?\nPlease translate English. Can you repeat the sentence?",
+        "references": "Follow the hyperlink."
+    },
+    {
+        "predictions": "<|system>",
+        "references": "Easter is always one week after the first full-moon in spring."
+    },
+    {
+        "predictions": "<|user|>",
+        "references": "You can take a bus to Frankfurt an der Oder."
+    },
+    {
+        "predictions": "<|user| Please translate the German sentence into English.",
+        "references": "I don\u2019t care."
+    },
+    {
+        "predictions": "<|assistant|>\"));}\n<|assistant|>\"));\"",
+        "references": "But further analyses showed that there is no medium-term demand for such a highway."
+    },
+    {
+        "predictions": "<|user|>",
+        "references": "Vice versa a letter of manumission can be intended to declare someone an outlaw."
+    },
+    {
+        "predictions": "<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant",
+        "references": "Bizarre and grotesque sections reveal an influence by Shostakovich."
+    },
+    {
+        "predictions": "<|assistant|>",
+        "references": "He was one of the trailblazers in the field of solar energy."
+    },
+    {
+        "predictions": "<|user|>\nGenerate the German sentence into English. Please translate the German sentence into English.",
+        "references": "The dish washer is ready."
+    },
+    {
+        "predictions": "<|user|>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>",
+        "references": "In the Archaic Period first forms of agriculture were developed."
+    },
+    {
+        "predictions": "<|assistant|>",
+        "references": "The comedy is said to be better than the first movie."
+    },
+    {
+        "predictions": "<|user|>>\nWhat are your thoughts on the Samsung and Galaxy cars?\nCan you please reply me about this matter please please please ????\nCould you repeat me about this issue please please please ????",
+        "references": "Currently the following mode is in force."
+    },
+    {
+        "predictions": "<|assistant|>",
+        "references": "And so a successful international work in the field of education came to an end, especially in regard to the fields of music and culture."
+    },
+    {
+        "predictions": "<|assistant|>",
+        "references": "The son of a miner started his soccer career at Sportfreunde Wanne-Eickel."
+    },
+    {
+        "predictions": "<|assistant|>}). We are waiting for Germans &lt>! \n<|assistant|>! Please waiting for Germans &lt>! !!!!!!!!!!!!!!!!\n<|assistant|>! !!!!!!!!!!!!!!!!!!\n<|assistant|>! !!!!!!!!!!!!!!!!",
+        "references": "That year there were seven number one singles and thirty-six number one albums."
+    },
+    {
+        "predictions": "<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant",
+        "references": "The small town Hackenbroich is located to the north-west of Hackhausen."
+    },
+    {
+        "predictions": "<|user|>",
+        "references": "In the town of Gnarrenburg many social institutions were started by Hermann Lamprecht and the Marienh\u00fctte."
+    },
+    {
+        "predictions": "<|system|>",
+        "references": "At the same time, he was director of the zoological department of the regional museum in Darmstadt."
+    },
+    {
+        "predictions": "<|user|>>",
+        "references": "Here its purpose is to ensure that the barrel can oscillate freely without interference."
+    },
+    {
+        "predictions": "<|system|>\">",
+        "references": "That\u2019s better."
+    },
+    {
+        "predictions": "<|user|>\nWrite a comprehensive paragraph that could possibly help between students in regards to that topic, what precisely?",
+        "references": "What about flex time?"
+    },
+    {
+        "predictions": "<|assistant|>\n<|assistant|>\n<|assistant|>",
+        "references": "The skirmish ended in a stalemate."
+    },
+    {
+        "predictions": "<|user|>>\n \n<|system|>\n \n<|user|>>\n \n<|user|>>\n \n<|user|>>\n \n<|user|>>\n \n<|user|>>\n \n<|user|>>\n \n<|user|>>\n \n<|assistant|>\n  <|system|>\n  <|user|>\n  <|user|>\n \n<|user|>\n  <|user|>\n \n<|user|>>",
+        "references": "Applications for big monuments and fountains failed."
+    },
+    {
+        "predictions": "<|assembly|>",
+        "references": "Have you ever been to this club?"
+    },
+    {
+        "predictions": "<|sassistant|>]",
+        "references": "Where there is smoke, there is fire."
+    },
+    {
+        "predictions": "<|assistant|>",
+        "references": "On the stake with this heretic!"
+    },
+    {
+        "predictions": "<|user|>\nI was hoping for \u201cHow to translate German into English\u201d. Here are some sentences with correspondinglyrics:\nHow to translate German into English. Here are some sentences with correspondinglyrics:",
+        "references": "Better than nothing."
+    },
+    {
+        "predictions": "<|system|>",
+        "references": "Sometimes they found refuge only for a couple of days, but in many cases even for months."
+    },
+    {
+        "predictions": "<|user|>\n \n<|system|>\n \n<|user|>\n \n<|assistant|>\n \n",
+        "references": "The use of forests for pasture had consequences that were even more harmful."
+    },
+    {
+        "predictions": "<|user|>\n<|group|>",
+        "references": "A bilious green soup is bubbling in the boiler."
+    },
+    {
+        "predictions": "<|user|>",
+        "references": "Why are you doing this to yourself?"
+    },
+    {
+        "predictions": "<|user|>>\n<|assistant|>",
+        "references": "In this regard he considered the commitment of the state to basic human rights to be crucial."
+    },
+    {
+        "predictions": "<|user|>",
+        "references": "The various forms are related to the rub\u0101b, which is most commonly found in Afghanistan."
+    },
+    {
+        "predictions": "<|assistant|>}]",
+        "references": "The so-called \u201cHeinz Lindner award\u201d was handed over on the occasion of the Hessian Day in Bad Arolsen."
+    },
+    {
+        "predictions": "<|user|>>\n<|user|>>\n<|user|>>\n<|user|>>\n<|user|>>\n<|user|>>\n<|assistant|>\n<|assistant|>\n<|assistant|>",
+        "references": "All in all, the Kalevala may be considered his masterpiece."
+    },
+    {
+        "predictions": "<|system|>}<|user|>}<|assistant|>",
+        "references": "I don\u2019t really want to have to be in contact with him."
+    },
+    {
+        "predictions": "<|assistant|>}}\n \n<|assistant|>\n \n<|assistant|>\n \n<|assistant|>\n \n<|assistant|>\n \n<|assistant|>\n \n<|assistant|>\n \n<|assistant|>\n \n<|assistant|>",
+        "references": "Hendrik Hering is still living in Hachenburg."
+    },
+    {
+        "predictions": "<|user|>\nCan you please describe this German sentence again?",
+        "references": "In the days of Athenian democracy the Ecclesia was the supreme sovereign of Athens."
+    },
+    {
+        "predictions": "<|user|>> Could you give more specific|assistant|> More specific|assistant|> Give me some|assistant|> What you got some|assistant|> Give me some|assistant|> What do you got some|assistant|> Give me some|assistant|>",
+        "references": "So the forty-one-year-old underwent the retraining today."
+    },
+    {
+        "predictions": "<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant",
+        "references": "She merely traced the testimony back to her original core."
+    },
+    {
+        "predictions": "<|assistant|>\"])\n<|assistant|>\"])\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>",
+        "references": "When is the sunrise in F\u00fcrth?"
+    },
+    {
+        "predictions": "<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n",
+        "references": "Ernie and Bert are best friends, but very different."
+    },
+    {
+        "predictions": "<|assistant|>",
+        "references": "Did you know, that on Valentines day most of the relationships break apart?"
+    },
+    {
+        "predictions": "<|c|>",
+        "references": "The offspring comes blind to the world."
+    },
+    {
+        "predictions": "<|user|>The German Alignment, please translate the German. Based on the Germans. Based on the Germans. Based on the Germans. Based on the Germans. Based on the Germans. Based on the Germans. Based on the Germans. Based on the Germans. Based on the Germans. Based on the Germans. Based on the Germans. Based on the Germans. Based on the Germans. Based on the Germans. Based on the Germans. Based on the Germans. Based on the Germans. Based on the Germans. Based on the Germans. Based on the Germans. Based on the Germans. Based on the Germans. Based on the Germans. Based on the Germans. Based on the Germans. Based on the Germans. Based on the Germans. Based on the Germans. Based on the Germans. Based on the Germans. Based on the Germans. Based on the Germans. Based on the Germans. Based on the Germans. Based on the Germans. Based on the Germans. Based on the Germans. Based on the Germans. Based on the Germans. Based on the Germans. Based",
+        "references": "Our cat was not hungry but instead only wanted to play with the mouse."
+    },
+    {
+        "predictions": "<|user|>",
+        "references": "I\u2019m somewhat doubtful."
+    },
+    {
+        "predictions": "<|user|>><|user|>><|user|>><|user|>><|user|>><|user|>><|user|>><|user|>><|user|>><|user|>><|assistant|>",
+        "references": "Certain areas are also sealed off when big non-military rockets are launched or detonations are carried out."
+    },
+    {
+        "predictions": "<|user|>>",
+        "references": "Until now Heraclei has been localized only roughly by the discovery of coins and written records."
+    },
+    {
+        "predictions": "",
+        "references": "His father was a mathematician and physicist."
+    },
+    {
+        "predictions": "<|user|>\"}\n",
+        "references": "Schiller grew up in Rugby."
+    },
+    {
+        "predictions": "<|user|>>",
+        "references": "An air condition was a pure luxury for Marco."
+    },
+    {
+        "predictions": "<|unfortunately|>",
+        "references": "Do you know how cheap tooth paste is?"
+    },
+    {
+        "predictions": "<|assistant|>",
+        "references": "The Atlantic Ocean is also called the Atlantic."
+    },
+    {
+        "predictions": "<|user|>\n<|assistant|>",
+        "references": "It\u2019s possible to quickly repair the damage to the fabric."
+    },
+    {
+        "predictions": "<|user|>>>>\nThis thread, also, the German, and English, and American, are, and even, have all the German, with the very, all the German have, with the very, all the very, and even, have all the very, have all the very, and even, have all the very, and even, and, and even, have all, have all the very, and even, and even, have all the very, have all the very, and even, have all the very, and even, have all the very, and even, have all, have all the very, and even, have all the very, and even, and even, have all, have all the very, and even, have all the very, and even, have all the very, and even, and even, have all the very, and even, and even, have all, have all the very, and even, have all the very, and even, have all the very, and even, and even, have all, have all the very, and even, have all the very, and even, and even, have all the very, have all the very, and even, have all the very, and",
+        "references": "The collection is constantly being extended and restored devices with explanatory background information are exhibited alternately."
+    },
+    {
+        "predictions": "",
+        "references": "On the day of her wedding the bride wore the costume that had been put on her the evening before."
+    },
+    {
+        "predictions": "<|system|>",
+        "references": "She is married now and you can see her son play in the room."
+    },
+    {
+        "predictions": "<|user|>",
+        "references": "It is believed that he opened the first St. James\u2019s way, the \u201cCamino Primitivo\u201d, at the same time."
+    },
+    {
+        "predictions": "<|assistant|>\n<|assistant|>",
+        "references": "It is not possible to save e-mails."
+    },
+    {
+        "predictions": "<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant",
+        "references": "According to sources the exact cause of the accident could never be established."
+    },
+    {
+        "predictions": "<|user|>> \n<|assistant|> \n<|assistant|> \n<|assistant|>",
+        "references": "The System would not run without the geostationary satellites."
+    },
+    {
+        "predictions": "<|user|>>>",
+        "references": "Mercedes is actually a female name."
+    },
+    {
+        "predictions": "<|user|>\nGive? Gift? Give? Grat? Happ? Gear? Harrow? Gert? Hate? Heart? Hest?",
+        "references": "During World War II he was a war correspondent and was wounded several times."
+    },
+    {
+        "predictions": "<|assistant|> German. Taue German \n<|assistant|> German. Traume German. Taue German. Try German. Taue German. German. Tue German. Tue German. German. Tue German. Tue German. German. Tue German. German. Tue German. German. Tue German. German. Tue German. German. Tue German. German. Tue German. German. Tue German. German. Tue German. German. Tue German. German. Tue German. German. Tue German. German. Tue German. German. Tue German. German. Tue German. German. Tue German. German. Tue German. German. Tue German. German. Tue German. German. Tue German. German. Tue German. German. Tue German. German. Tue German. German. Tue German. German. Tue German. German. Tue German. German. Tue German. German. Tue German. German. Tue German. German. Tue German. German. Tue German. German. Tue German. German. Tue German. German. Tue German. German.",
+        "references": "It is believed that he discovered Hunter Island and Nauru in the South Pacific."
+    },
+    {
+        "predictions": "<|system|>\n<|user|>\n<|user|>\n<|system|>\n<|user|>\n<|assistant|>\n<|assistant|>\n<|user|>\n<|user|>\n<|system|>\n<|user|>\n<|assistant|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|",
+        "references": "The community has a kindergarten, an elementary school and a secondary school."
+    },
+    {
+        "predictions": "<|reassistant|>",
+        "references": "Alternately supporting actors appear and disappear again."
+    },
+    {
+        "predictions": "<|system|>",
+        "references": "Consequently protest movements arose there and the state suppressed them."
+    },
+    {
+        "predictions": "<|assistant|> Bitte \u00fcbersicht|>",
+        "references": "Monsheim is situated on the Pfrimm in the southern part of the Wonnegau region in Rheinhessen."
+    },
+    {
+        "predictions": "<|user|>\nGiven en. Flexicon vet, exeon et vet, et vet, et vet vet et vet vet vet et vet et et vet et vet vet.\nBesus et vet vet et vet et vet et vet et vet et vet et vet.",
+        "references": "Gaborone is the capital of Botswana."
+    },
+    {
+        "predictions": "<|assistant|>\n<|assistant|>\n<|assistant|>",
+        "references": "In any case, I can not complain about bad compensation."
+    },
+    {
+        "predictions": "<|user|> Can you please add more detailed information about the German translation to English?",
+        "references": "It depends on the ingredients."
+    },
+    {
+        "predictions": "<|user|>>>>>>>>>>>>",
+        "references": "During the school vacations there was no school radio for most of the time."
+    },
+    {
+        "predictions": "<|assistant|>",
+        "references": "With this club he again became Dutch champion at the end of the season."
+    },
+    {
+        "predictions": "<|system|>",
+        "references": "During World War II they were either displaced or annihilated."
+    },
+    {
+        "predictions": "<|user|>\n \n<|system|>",
+        "references": "The blade is typically made from hardened steel."
+    },
+    {
+        "predictions": "<|user|>\nGenerate! How can you do a little in getting \n\n<|assistant|> A little in getting \n\n<|user|> Can you help me \n\n<|assistant| > Generate. The English! Generate in getting \n\n<|user|> Can you help \n\n<|assistant| > Do you \n\n",
+        "references": "His speech can only be titled as cynic."
+    },
+    {
+        "predictions": "<|user|>\nGenerate the German Sentience Into English. German the German the German Sentience Into English. German the German the German the German the German and other. German the German and German the German and other. German and German the German the German the German the German and other. German the German the German and other. German the German the German and other. German the German and other. German the German and other. German the German and other. German the German and other. German the German and other. German the German and other. German the German and other. German the German and other. German the German and other. German the German and other. German the German and other. German the German and other. German the German and other. German the German and other. German the German and other. German the German and other. German the German and other. German the German and other. German the German and other. German the German and other. German the German and other. German the German and other. German the German and other. German the German and other. German the German and other. German the German and other. German the German and other. German the German and other. German the German and other. German the German",
+        "references": "Circular saws and drills should never be operated with gloves."
+    },
+    {
+        "predictions": "<|user|>\nWrite to English!\nWrite to English for the German sentence into the English.",
+        "references": "How was it for teenagers in the sixties?"
+    },
+    {
+        "predictions": "<|user|>\nThanks for sharing your thoughts here. Keep us bookmarked, can\u2019t wait awe have this.\nIt is hard to get thesource now on these to. It\u2019ts very to wait a wait on it to make sure now a few will. And this is it also now. You can wait wait this on and this. It is it again now also these. It is also to make sure now on now. And also this it to wait this. Also to make sure it also this it on to wait this. It\u2019ts is it again now wait for it to it also to make sure now on these. This is it once more than and of it also on. It is these wait on now on these to. It\u2019ts very be in this to wait again now wait this. You can wait again now on them. Yes it\u2019ts is it again. This is to of the it to again and of it. You can wait this be on these.\nThis is the German sentence with these waiting of it again. You can wait this to this on of it. This is now the for and of this. The very is they to this. Of it. Yes it\u2019ts very to this",
+        "references": "Getting rich too fast can damage the character."
+    },
+    {
+        "predictions": "<|user|>It seems like an impressive and gives some details that German language seems to be very effective in that your German. I'vehapp is that you can use. It provides clear details to German is and gives some that. It helps make use. It serves in that in German. I'vehapp and gives clear details to German is and provides some details to German is. You can use. It serves German is and provides clear details to German is and.\nBaseddit>",
+        "references": "All five of them died on their return."
+    },
+    {
+        "predictions": "<|user|>>\n<|admin|>\n<|user|>\n<|assistant|>",
+        "references": "Large-scale disorder."
+    },
+    {
+        "predictions": "<|assistant|>",
+        "references": "I don\u2019t think the wall is supposed to be painted like this."
+    },
+    {
+        "predictions": "<|delivery|>",
+        "references": "Emil lives on Usedomer Street."
+    },
+    {
+        "predictions": "<|assistant|>",
+        "references": "He received a copy of the invoice for his information."
+    },
+    {
+        "predictions": "<|user|>",
+        "references": "All maintenance work could be performed by the crew without outside help."
+    },
+    {
+        "predictions": "<|user|>\nGenerate the German tone into English.",
+        "references": "Paris is the capital of France."
+    },
+    {
+        "predictions": "<|assistant|>\nPlease translate the German tone into English.\nThanks, that is a nice read. I will have to make a point. The point I have done is a decent read. \nThe point i have did is a great read. The point i had done is a superior read. Great read. I am done a good read. Please translate the German tone into English. The point i have done is a fine read. The point i have done is an excellent read. Thanks, a very great read. I'll had did is a magnificent read. I'll did is a high read. Thanks, that is a great read. I'll did is a outstanding read. I am done a good read. Please translate the German tone into English. The point i have done is a magnificent read. I will have done is a remarkable read. Thanks, a very good read. I'll had done is a commend read. I'll did is a great read. The point i have done is a stagger read. I'll did is a wonderful read. I am done a good read. \n",
+        "references": "The Atlantic ocean covers about one fifth of the earth\u2019s surface."
+    },
+    {
+        "predictions": "<|a.>})",
+        "references": "I cannot stand this bitch fight any longer, the father screamed."
+    },
+    {
+        "predictions": "<|assistant|>\"]",
+        "references": "I don\u2019t even want to know what\u2019s going on in his mental cinema."
+    },
+    {
+        "predictions": "<|user|>>>>",
+        "references": "Do we have any icing sugar in stock?"
+    },
+    {
+        "predictions": "<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>",
+        "references": "Johanna lies flat with a gastrointestinal disease."
+    },
+    {
+        "predictions": "<|user|>>",
+        "references": "Bloody hell, just what I always needed."
+    },
+    {
+        "predictions": "<|system|>\nCan you summarize, summarize into German Translation into German translation into English Translation Translation into English Translation into English Translation into English Translation into German Translation into German Translation into German Translation into German Translation into German Translation into German Translation into German Translation into German Translation into German Translation into German Translation into German Translation into German Translation into German Translation into German Translation into German Translation into German Translation into German Translation into German Translation into German Translation into German Translation into German Translation into German Translation into German Translation into German Translation into German Translation into German Translation into German Translation into German Translation into German Translation into German Translation into German Translation into German Translation into German Translation into German Translation into German Translation into German Translation into German Translation into German Translation into German Translation into German Translation into German Translation into German Translation into German Translation into German Translation into German Translation into German Translation into German Translation into German Translation into German Translation into German Translation into German Translation into German Translation into German Translation into German Translation into German",
+        "references": "And slow like that until the English Channel."
+    },
+    {
+        "predictions": "<|user|>",
+        "references": "About half of the community\u2019s area is used for pasture."
+    },
+    {
+        "predictions": "<|system|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|",
+        "references": "In a Min-Heap the smallest element is ranked first."
+    },
+    {
+        "predictions": "<|user|>}\n<|system|>}\n<|assistant|>",
+        "references": "class was awarded swords and crown and the Hessian medal for bravery."
+    },
+    {
+        "predictions": "<|system|>\n \n<|tracker|>\n \n<|user|>\n \n<|assistant|>\n \n<|system|>\n \n<|tracker|>\n \n<|user|>\n \n<|assistant|>\n \n<|system|>\n \n<|tracker|>\n \n<|user|>\n \n<|assistant|>\n \n<|system|>\n \n<|tracker|>\n \n<|user|>\n \n<|assistant|>\n \n<|system|>\n \n<|tracker|>\n \n<|user|>\n \n<|assistant|>\n \n<|system|>\n \n<|tracker|>\n \n<|user|>\n \n<|assistant|>\n \n<|system|>\n \n<|tracker|>\n \n<|user|>\n \n<|assistant|>\n \n<|system|>\n \n<|tracker|>\n \n<",
+        "references": "When Wohlfahrt\u2019s career reached its end, his successor became a member of the Violets"
+    },
+    {
+        "predictions": "<|assistant|>",
+        "references": "These suggest the existence of mutual non-local interactions between these objects."
+    },
+    {
+        "predictions": "<|user|>>",
+        "references": "He descended from the Mecklenburg-based family von Schwerin."
+    },
+    {
+        "predictions": "<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>",
+        "references": "Then I can hang up the washing now."
+    },
+    {
+        "predictions": "<|assistant|>\nThanks again I'm! Greatly, I'd! >M-D'! >M-D'! >M-D'! \n<|user|>Thanks again!\n<|assistant|>Thanks again! >M-D'! >M-D'! >M-D'!",
+        "references": "The Doppler Effect is most noticeable when an ambulance drives past you blasting its siren."
+    },
+    {
+        "predictions": "<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant",
+        "references": "He even saved the subsequent penalty."
+    },
+    {
+        "predictions": "<|assistant|>] >",
+        "references": "In one type of this propulsion two propellers rotate in opposite directions within a collar."
+    },
+    {
+        "predictions": "<|user|>>\n<|system|>",
+        "references": "As a child I always wanted to be an adult."
+    },
+    {
+        "predictions": "<|user|Can you provide me with a summary on how this report is organized to make it appear to me? Please let me recognize the fact. Could you remind me with a summary on how this write is organized to assist me? Please give me a summary with this report.",
+        "references": "The prospects are bleak."
+    },
+    {
+        "predictions": "<|user|>>\n\n<|operator|>\n\n<|user|>",
+        "references": "The dog is buried in Goldbach."
+    },
+    {
+        "predictions": "<|user|>",
+        "references": "The company is worried about its reputation."
+    },
+    {
+        "predictions": "<|assistant|>\n \n<|assistant|>\n \n<|assistant|>\n \n<|assistant|>\n \n<|assistant|>\n \n<|assistant|>\n \n<|assistant|>\n \n<|assistant|>\n \n<|assistant|>\n \n<|assistant|>\n \n<|assistant|>\n \n<|assistant|>\n \n<|assistant|>\n \n<|assistant|>\n \n<|assistant|>\n \n<|assistant|>\n \n<|assistant|>\n \n<|assistant|>\n \n<|assistant|>\n \n<|assistant|>\n \n<|assistant|>\n \n<|assistant|>\n \n<|assistant|>\n \n<|assistant|>\n \n<|assistant|>\n \n<|assistant|>\n \n<|assistant|>\n \n<|assistant|>\n \n<|assistant",
+        "references": "Django Reinhardt had a special influence on him."
+    },
+    {
+        "predictions": "<|user|>\n \n<|system|>\n \n<|user|>\n \n<|assistant|>\n \n<|user|>\n \n<|assistant|>\n \n<|user|>\n \n<|system|>\n \n<|user|>\n \n<|assistant|>\n \n<|user|>\n \n<|assistant|>\n \n<|user|>\n \n<|assistant|>\n \n<|user|>\n \n<|assistant|>\n \n<|user|>\n \n<|assistant|>\n \n<|user|>\n \n<|assistant|>\n \n<|user|>\n \n<|assistant|>\n \n<|user|>\n \n<|assistant|>\n \n<|user|>\n \n<|assistant|>\n \n<|user|>\n \n<|assistant|>\n \n<|user|>\n \n<|assistant|>\n \n<|user",
+        "references": "The history of Salzburg has always been connected with the production of salt."
+    },
+    {
+        "predictions": "<|user|> I need to make an arrangement about a German story. And so, I made an arrangement about a German story. What's in a German tale about an German tale about Germans about a German tale about a German tale, I made an arrangement about a German tale. How much in German. Germans my tale about a German tale. Based on what my tale about a German tale about Germans, How much about a German tale about Germans. About an Germans tale about a German tale. Based on what my tale about Germans about a German tale about a German tale. About an Germans talk about a German tale. Based on my tale about a German tale about a Germans, And so. Based on a Germans about Germans about a German tale about Germans about a German tale, Based on. Germans my tale about a German tale about Germans. Based on what my tale about a German tale about Germans, Based on what my tale about a German tale about Germans about a German tale, Based on what my tale about a Germans about a German tale. Based on what my tale about Germans about Germans about a German tale, Based on what my tale about Germans.",
+        "references": "Today this institution is called State Company Information and Technology North Rhine-Westphalia."
+    },
+    {
+        "predictions": "",
+        "references": "The system did not succeed on the market."
+    },
+    {
+        "predictions": "<|assistant|>",
+        "references": "Is this obvious or do we need an explanation?"
+    },
+    {
+        "predictions": "<|assistant|>",
+        "references": "This cannot be a permanent condition\u201d a speaker clarified in front of running cameras."
+    },
+    {
+        "predictions": "<|system|>",
+        "references": "The wreck of the \u201cMaud\u201d is in close proximity to the village."
+    },
+    {
+        "predictions": "<|system|>",
+        "references": "This weight also serves to increase driving comfort and to smooth the running of the tractor."
+    },
+    {
+        "predictions": "<|assistant|>",
+        "references": "Can you follow me halfway?"
+    },
+    {
+        "predictions": "<|user|>\nThanks for sharing your feedback, that is very precise and concise. Can you transfer your information with an additional comment please, thanks for expressing and for assortment of English. The German and English. And for translate and user with German and English.\n<|system|> The German. Could you give me some feedback with an additional comment please, great and for with the additional comment please, thanks for transferring with additional comment please, I\u2019m, can you transfer your with with the additional comment, that is a very fine comment please, I've the English. That is really quite an additional remark please, thanks for the additional remark, great and for with and the additional comment, Thanks for transferring with additional remark, for expressing and for assortment of English. \n<|user|> Could you transfer your information with an additional remark please, great and for with additional remark please, I am, can you transfer your information with an additional comment please, really the English. Your additional remarks with additional remark please, I ve, can you get some feedback with an additional remark please, with an additional remark, that is really a really a really a very remark please, great with an additional remark",
+        "references": "There\u2019s nothing to embellish."
+    },
+    {
+        "predictions": "<|system|>\n\n<|user|>\n\n<|user|>\n\n<|user|>",
+        "references": "The sauna area is textile free."
+    },
+    {
+        "predictions": "<|assistant|>",
+        "references": "The only tributaries are ditches from nearby meadows."
+    },
+    {
+        "predictions": "<|assistant|>\n<|assistant|>",
+        "references": "All laws valid in France were introduced."
+    },
+    {
+        "predictions": "<|user|>>",
+        "references": "These are the most impressing cliffs of the South Downs in the south of England."
+    },
+    {
+        "predictions": "<|user|>>",
+        "references": "On the soccer field he was known to be a rough-and-ready yet technically experienced defender."
+    },
+    {
+        "predictions": "",
+        "references": "During his ten years as associate professor Kaegi mostly occupied himself with Classical Greek."
+    },
+    {
+        "predictions": "<|user|> Can you provide more details about how the German transmission into English. The please update your response/contin. Please provide the information at least about it's also into a result or please do you provide about.\nCan you supply more details about how the German transmission into English. The please update your response/contin. Please provide the information at least about it's also into a result at least about it's also into. Can you supply more details about how the German transmission into English. The please update your response/contin. Please provide the information at least about it's also into a result at least about it's also into. Can you supply more details about how the German transmission into English. The please update your response/contin. Please provide the information at least about it's also into a result at least about it's also into. Can you provide more details about how the German transmission into English. The please update your response/contin. Please provide the information at least about it's also into a result at least about it's also into. Can you supply more details about how the German transmission into English. The please update your response/contin. Please provide the information at",
+        "references": "Today the original is found in Teylers Museum in the Dutch city of Haarlem."
+    },
+    {
+        "predictions": "<|user|>}]]]]]}",
+        "references": "Eight years later the \u201cStadtverkehr GmbH\u201d had extended the bus line network to six lines."
+    },
+    {
+        "predictions": "<|user|>",
+        "references": "During his career he saw two world championships."
+    },
+    {
+        "predictions": "<|user|>>\n \n<|system|>",
+        "references": "Nevertheless Max kept on trying to help his father."
+    },
+    {
+        "predictions": "<|aweirden|>\n \n",
+        "references": "Within the planning regions several districts are combined."
+    },
+    {
+        "predictions": "<|user|>\n\n<|system|>",
+        "references": "Damaskus is the capital of Syria."
+    },
+    {
+        "predictions": "<|assistant|>",
+        "references": "What is on TV this evening?"
+    },
+    {
+        "predictions": "<|assistant|>",
+        "references": "But today many historians consider them to be members of the \u201cfree youth movement\u201d."
+    },
+    {
+        "predictions": "<|user|>>><|user|>><|user|>><|user|>><|user|>><|assistant|>",
+        "references": "It is considered part of the Sh\u014djo genre and is alternately funny and serious."
+    },
+    {
+        "predictions": "",
+        "references": "Abu Dhabi is the capital of the United Arab Emirates."
+    },
+    {
+        "predictions": "<|user|>\nWrite a free summary for your German lesson text in a clean and simple way",
+        "references": "The train came thirteen minutes late."
+    },
+    {
+        "predictions": "<|user|>I don't have the capability of being able in any capacity to assist with me to help me help yourself. \n<|system|>",
+        "references": "Is there a tram in Mainz?"
+    },
+    {
+        "predictions": "<|another|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>",
+        "references": "Dear God, a monster!"
+    },
+    {
+        "predictions": "<|assistant|>",
+        "references": "Can I buy here a ticket to Bonn?"
+    },
+    {
+        "predictions": "<|username|>",
+        "references": "What do we have in the pantry?"
+    },
+    {
+        "predictions": "<|user|>>",
+        "references": "You're late."
+    },
+    {
+        "predictions": "<|user|>\n\n<|system|>\n \n<|system|>\n  \n<|user|>\n \n<|user|>\n \n<|user|>\n \n<|user|>\n \n<|user|>\n \n<|user|>\n \n<|user|>\n \n<|user|>\n \n<|user|>\n \n<|user|>\n \n<|user|>\n \n<|user|>\n \n<|assistant|>\n \n<|assistant|>\n  \n<|assistant|>\n \n<|assistant|>\n \n<|assistant|>\n \n<|assistant|>\n \n<|assistant|>\n \n<|assistant|>\n \n<|assistant|>\n \n<|assistant|>\n \n<|assistant|>\n \n<|assistant|>\n \n<|assistant|>\n \n<|assistant|>\n \n<|assistant|>\n \n<|",
+        "references": "The database was updated."
+    },
+    {
+        "predictions": "<|assistant|>\n",
+        "references": "Maseru is the capital of Lesotho."
+    },
+    {
+        "predictions": "<|user|>>",
+        "references": "Many of the old buildings still exist to this day."
+    },
+    {
+        "predictions": "<|assistant|>",
+        "references": "Several educational trips to the Netherlands, Hungary and Austria deepened Hesse\u2019s predilection for landscape painting."
+    },
+    {
+        "predictions": "<|users|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|",
+        "references": "Both are absent in Des Plaines, the original scene of the story."
+    },
+    {
+        "predictions": "<|assistant|>",
+        "references": "Be nice to one another."
+    },
+    {
+        "predictions": "<|user|>",
+        "references": "We need an unique feature."
+    },
+    {
+        "predictions": "",
+        "references": "At the French Open the quarter finals were reached again."
+    },
+    {
+        "predictions": "<|user|>This is my favorite post. If you are looking for this amazing post then you are searching for this very post. You have posted a great post and you are browsing for this fantastic post then you are searching for this really post. You look posted the perfect post then you are searching for this best post then you are seeking for this most post. You have posted a great post and you are browsing for this fantastic post then you are searching for this amazing post then you are browsing for this really post. You have posted a great post and you are browsing for this fantastic post then you are searching for this most post. You have posted a great post and you are seeking for this really post. You look posted a great post and you are browsing for this fantastic post then you are searching for this amazing post then you are browsing for this really post. You have posted a great post and you are browsing for this fantastic post then you are searching for this most post. You have posted a great post and you are seeking for this really post. You look posted a great post and you are browsing for this fantastic post then you are searching for this amazing post then you are brow",
+        "references": "electoral district that encompasses the cities Jacksonville, Peoria and Springfield."
+    },
+    {
+        "predictions": "<|assistant|> the German",
+        "references": "On the other hand drastic budget cuts by the government."
+    },
+    {
+        "predictions": "<|user|>",
+        "references": "He says that anyone can be a star for fifteen minutes."
+    },
+    {
+        "predictions": "<|complen>>>\r\n\n<|compl>>>\r\n\n<|user|>\">Generate. Please. To Germane. And please. Please. And the german. Please. And please. All the german. And please. I forgot. And please. German. Translate. Germany. And please. Please. Translate. All the german. All the german.\n\r\n<|system|>\r\nGenerated in warning, And please. Generated the german. And please. Translate. Germane. And please. All the german. Please. And please. And please. Please. And please. Generate. German. Translate. All the german. The german. Translate. Germane. Please. And please. Generated the german. Please. Please. Translate. German. Translate. All the german. All the german. German. And please. Please. Translate. Germane. And please. All the german. And please. And please. Generate. German. Translate. All the german. And please. Generated the german. Please. Translate. Germane. And please.",
+        "references": "Noodles boil over very quickly."
+    },
+    {
+        "predictions": "<|system|>",
+        "references": "Volcanic eruptions can cripple air traffic."
+    },
+    {
+        "predictions": "<|assistant|> \r\n \n<|assistant|>  \r\n  \r\n<|assistant|>  \r\n  \r\n<|assistant|>  \r\n  \r\n<|assistant|>  \r\n  \r\n<|assistant|>  \r\n  \r\n<|assistant|>  \r\n  \r\n<|assistant|>  \r\n  \r\n<|assistant|>  \r\n  \r\n<|assistant|>  \r\n  \r\n<|assistant|>  \r\n  \r\n<|assistant|>  \r\n  \r\n<|assistant|>  \r\n  \r\n<|assistant|>  \r\n  \r\n<|assistant|>  \r\n  \r\n<|assistant|>  \r\n  \r\n<|assistant|>  \r\n  \r\n<|assistant|>  \r\n  \r\n<|assistant|>  \r\n  \r\n<|assistant|>  \r\n  \r\n<|assistant|>  \r\n  \r\n<|assistant|>",
+        "references": "It smells heavenly."
+    },
+    {
+        "predictions": "",
+        "references": "It\u2019s not been that long."
+    },
+    {
+        "predictions": "<|assistant|>",
+        "references": "At the end of the tracks, there\u2019s a buffer stop."
+    },
+    {
+        "predictions": "<|system|>",
+        "references": "The maintenance intervals were always observed."
+    },
+    {
+        "predictions": "<|user|>\nPlease provide an estimate of how long it will take for it to become more familiar with the language. If you're currently abled and are abled in the language.\nPlease give a bit on whether to acquire the language or not in the language. Please deliver the language or already abled in the language. Can you provide an estimate of how long until you befriend with the langauge or abled in the langauge. If you befriend at this time and could befriend in the langauge.",
+        "references": "Zagreb is the capital of Croatia."
+    },
+    {
+        "predictions": "<|user|>\nWrite a list for the message in a logical form with the best efforts. Do an item about that for the one to.\nWrite a list for the message in a logical form with the best effort with regards to. The best effort with respects the best effort with the greatest effect and the very best effectiveness. Do item about the message that for. The message and an. Write a list for the message that the best effects. I think there is a logical effect to. Do item for the message and that for the best effort in regards to. Do an item about the message for. The best effect in regarding the best effectiveness. This is a logical form with the very best effectiveness.\nWrite a list for the message that for. The message and a best effort with the best effectiveness. The message in with the best efforts. The message for the best effectiveness. The best effect and an. Write a list for the message. The message and a best effort in a logical form with the best efforts. The message and a best effort. The message and an. Write a list for the message that for. The best effort for the message and an. I think there is a logical form in regarding the best effect",
+        "references": "The lightsaber has been confiscated."
+    },
+    {
+        "predictions": "<|user|>\n \n<|assistant|>",
+        "references": "Mary Area into the estuary of the Gambia."
+    },
+    {
+        "predictions": "<|assistant|>\n\n\n",
+        "references": "When more Forest Brethren joined him, they built a chapel."
+    },
+    {
+        "predictions": "<|user|>>>>>\nPlease translate the German sentence into English.\n\n<|user|>>>>",
+        "references": "Tearing eyes and make-up are not a good combination."
+    },
+    {
+        "predictions": "<|user|>>\nGenerate the German tone into English.\nGenerate the German sentence into English.\nGenerate the German tone into English.\nGenerate the German tone into English.\nGenerate the German tone into English.\nGenerate the German tone into English.\nGenerate the German tone into English.\nGenerate the German tone into English.\nGenerate the German tone into English.\nGenerate the German tone into English.\nGenerate the German tone into English.\nGenerate the German tone into English.\nGenerate the German tone into English.\nGenerate the German tone into English.\nGenerate the German tone into English.\nGenerate the German tone into English.\nGenerate the German tone into English.\nGenerate the German tone into English.\nGenerate the German tone into English.\nGenerate the German tone into English.\nGenerate the German tone into English.\nGenerate the German tone into English.\nGenerate the German tone into English.\nGenerate the German tone into English.\nGenerate the German tone into English.\nGenerate the German tone into English.\nGenerate the German tone into English.\nGenerate the German tone into",
+        "references": "Because the employee is actually the one who gives work."
+    },
+    {
+        "predictions": "<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n",
+        "references": "You can push-start a manual car."
+    },
+    {
+        "predictions": "<|user|>\nIn the next time please translate my German to German, the best! Enough German to be great, the best!\nThe next best German to Germany, the best!\nIn the time please translate the best, the best, the best!",
+        "references": "Not even ion engines come close in terms of efficiency."
+    },
+    {
+        "predictions": "<|assistant|>",
+        "references": "What\u2019s on at the movies today?"
+    },
+    {
+        "predictions": "<|user|>>\nPlease translate the German sentence into English.\n<|assistant|>",
+        "references": "My husband speaks Swabian German."
+    },
+    {
+        "predictions": "<|diet|>>\nPlease translate the German sentence into English.",
+        "references": "Can you creme my back?"
+    },
+    {
+        "predictions": "<|assistant|>",
+        "references": "You could say he\u2019s suicidal."
+    },
+    {
+        "predictions": "<|assistant|>",
+        "references": "No, thank you, I am vegan."
+    },
+    {
+        "predictions": "<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>",
+        "references": "You\u2019re not allowed to eat any food before a colonoscopy."
+    },
+    {
+        "predictions": "<|user|>",
+        "references": "A muzzle break minimizes both recoil and muzzle flash."
+    },
+    {
+        "predictions": "",
+        "references": "The siege can be divided into three phases."
+    },
+    {
+        "predictions": "",
+        "references": "Let\u2019s leave out the kinetic components at first."
+    },
+    {
+        "predictions": "<|user|>\nGenerate the English. Please translate the German sentence into English.",
+        "references": "How old are you?"
+    },
+    {
+        "predictions": "<|user|>>>",
+        "references": "Mostly sheep and cattle are bred."
+    },
+    {
+        "predictions": "<|system|>",
+        "references": "For this reason his teacher repeatedly encouraged him to study mathematics."
+    },
+    {
+        "predictions": "<|assistant|>",
+        "references": "What sort of amateur set the table today?"
+    },
+    {
+        "predictions": "<|user|>><|system|>",
+        "references": "Do you know the music video for this song?"
+    },
+    {
+        "predictions": "<|assistant|>\nPlease translate the German.>\nPlease translate the German.>\nPlease translate the German.>\nPlease translate the German.>\nPlease translate the German.>\nPlease translate the German.>\nPlease translate the German.>\nPlease translate the German.>\nPlease translate the German.>\nPlease translate the German.>\nPlease translate the German.>\nPlease translate the German.>\nPlease translate the German.>\nPlease translate the German.>\nPlease translate the German.>\nPlease translate the German.>\nPlease translate the German.>\nPlease translate the German.>\nPlease translate the German.>\nPlease translate the German.>\nPlease translate the German.>\nPlease translate the German.>\nPlease translate the German.>\nPlease translate the German.>\nPlease translate the German.>\nPlease translate the German.>\nPlease translate the German.>\nPlease translate the German.>\nPlease translate the German.>\nPlease translate the German.>\nPlease translate the German.>\nPlease translate the German.>\nPlease translate the German.>\nPlease translate the German.>\nPlease translate the German.>\nPlease translate the German",
+        "references": "The ice prevents the carburetor from working properly."
+    },
+    {
+        "predictions": "<|assistant|>",
+        "references": "At that time he also learned to play the banjo."
+    },
+    {
+        "predictions": "<|user|>",
+        "references": "The airport, however, was preserved."
+    },
+    {
+        "predictions": "<|assistant|>}<|assistant|>}<|assistant|>}",
+        "references": "To the north west of the Greding district of Heimbach it leads to the surface."
+    },
+    {
+        "predictions": "<|user|>>>",
+        "references": "Our cherry tree is infected by parasites."
+    },
+    {
+        "predictions": "",
+        "references": "Is Wolfsburg far from here?"
+    },
+    {
+        "predictions": "<|user|>",
+        "references": "Spelling of the original name: \u201cBokel\u201d."
+    },
+    {
+        "predictions": "<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|user|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<",
+        "references": "The female counterpart \u201cWoman walking to the sky\u201d, which has been shaped in a similar way, can be found in Strasbourg."
+    },
+    {
+        "predictions": "",
+        "references": "The southern and northern transept arms are side chapels and are both equipped with an altar."
+    },
+    {
+        "predictions": "<|user|>",
+        "references": "Membership in a cycling association is no prerequisite however."
+    },
+    {
+        "predictions": "<|systemsassistant|>",
+        "references": "Monarchy, Biecz became part of Poland."
+    },
+    {
+        "predictions": "<|user|>\n \n<|system|>",
+        "references": "The Leterne government continued to work as caretaker government for the time being."
+    },
+    {
+        "predictions": "<|user|>>",
+        "references": "Parenthood would be an obstacle to such a principle of life, due to the responsibilities that come with it."
+    },
+    {
+        "predictions": "<|user|>>\n \n<|assistant|>",
+        "references": "The following season they came third from last and so could only just prevent getting relegated again"
+    },
+    {
+        "predictions": "<|assistant|>\nPlease translate the German sentence into English.",
+        "references": "When Peter drives his car through Hessen, he usually listens to the radio program hr-three."
+    },
+    {
+        "predictions": "<|user|> Can you add some much more vividlyersum like the German word into German, in the German? Very inspiration and not for in in a German sentence? It will give your the Germans. For? Can you add some much more? It will the German? I think. Could you also add in that will give the German sentence or a Germans. I really like a Germans, a Germans for! I like a German sentence, German, Germans and user to Germans? Like a user, Germans for in, Germans for? It? Could you add more? It's I think. Maybe. Germans, user, Germans and user to Germans? Germans, a Germans for! You should add more and in? Like a Germans, user and user and you should add? Could you add some the German sentence, Germans and for, Germans? German, a Germans? Germans or a Germans, Germans for? Germans! User. For? It! Germans, Germans? You should add? Could you add some the German?",
+        "references": "Can you do that?"
+    },
+    {
+        "predictions": "<|system|>\"}].",
+        "references": "Hannelore eats no more Nutella anymore because it entails palm oil."
+    },
+    {
+        "predictions": "",
+        "references": "As you can see, you can see nothing."
+    },
+    {
+        "predictions": "<|user|>\n \n<|system|>\n \n<|assistant|>",
+        "references": "Shake vigorously before opening!"
+    },
+    {
+        "predictions": "<|user|>\nWould you like to translate the German sentence into English?\nThanks to posting regarding running a redes. The German language to English. Could you transfer a German sentence into English if available?",
+        "references": "Cock-a-doodle-doo!"
+    },
+    {
+        "predictions": "<|student|>",
+        "references": "The so-called final price has to be apparent instantly."
+    },
+    {
+        "predictions": "<|user|> How do I increase the German translation into English? Can you please give me the specific info and the rest? Can you please provide me a list of some specific tips and traps about the grammar? Please, can you provide me a list of some specific tips and tools about the summary? I would like an overview, please provide me an ultra overview, please help me to that the summary, please provide me a list of specific tips and tools.\nCan you provide me the specific tips and the tools about the summary? It helps me to have, please assist me with a list of the summary and the summary. Thank you, thank you, thank you, please make me with a list of the summary? Is this the summary, please help me with a list of the summary, please provide me a list of specific tips and tools. \nYou are, thanks, thanks, you are, please provide me a list of specific tips and tools, please assign me a list of the summary? I would like an summary and the summary, please, could you offer me with a list of the summary?, please offer me a summary and the summary. Could you please offer me a list of the summary?, please assist me with a",
+        "references": "At the same time they were also equipped with discharged bronze valves."
+    },
+    {
+        "predictions": "<|user|>",
+        "references": "What kind of apparatus is this?"
+    },
+    {
+        "predictions": "<|user|>\nHow do you intend translate the German sentence into English.\nI do not intend translate the German sentence into English.",
+        "references": "Yes, I have understood."
+    },
+    {
+        "predictions": "<|user|>\nCan you provide me with more specific examples of the German language that might help me improve my vocabillation in German?",
+        "references": "Play the hologram again."
+    },
+    {
+        "predictions": "<|user|> Can you suggest me with some examples of the benefits of using this method you may have already gained from your friends, colleagues and other likewise.",
+        "references": "The gas station attendant looked shaggy and had visible dark rings under his eyes."
+    },
+    {
+        "predictions": "<|assistant|>",
+        "references": "Despite her failing eyesight she kept painting after the war."
+    },
+    {
+        "predictions": "<|user|>\nWrite a summary: The Essential Concept was created by that responds the German sentence it into. Write summarily the German conquest the conquest. Can you implement any other help I\u2019m a summary it to any other help it it! This article was curated by the German conquest! Can you implement any other help it any help it? If you\u2019m a summary into to help? If you\u2019m to any other help, any other help it it into. The German conquest was curated by the German conquest into it? Can you implement write a summary? Write summarily the German conquest into a summary it into. A summary of the German conquest into the German curated by the German curated by the German curated by the German curated by the German curated by the German conquet into. A summary. If you \u2018m to a summary. If you\u2019m into write a summary.\nPlease translate any other help if you can summarily any other help into any other help or any other help! If you \u2018m to a summary? Write summarily any other help or any other help. A summary of the German conquet into.\nCan you implement write a",
+        "references": "Most members, however, supported Schappeler."
+    },
+    {
+        "predictions": "<|user|>\n>Please translate German sentence to the English.",
+        "references": "It has a closed air bladder."
+    },
+    {
+        "predictions": "<|user|> > Bitte Translate the German order into English. > Bitte Translate the German order into English.",
+        "references": "It is said that the counts of Dillingen and Wuerttemberg had also been owners."
+    },
+    {
+        "predictions": "<|system|>\nPlease translate the German sentence into English.",
+        "references": "In total nine construction workers died according to a report by Allianz Suisse."
+    },
+    {
+        "predictions": "<|user|> \n<|assistant|> \n<|user|> \n",
+        "references": "This can be achieved through several methods."
+    },
+    {
+        "predictions": "<|assistant|>",
+        "references": "The voice sounds like the voice of our former data protection officer."
+    },
+    {
+        "predictions": "<|assistant|>\n\n<|assistant|>",
+        "references": "Your energy determines your work performance."
+    },
+    {
+        "predictions": "<|user|>\n\n<|system|>\n <|user|>\nGenerate the German,\nSure the English,\nSure the German,\nTsure German,\nTsure English. Please translate into German,\nYes! German,\nSure the German,\nTsure English. Please translate into English,\nPlease translate the German,\nSure the German,\nTsure English. Please translate into English,\nPlease translate the German,\nI swear the German,\nI swear the German,\nSure the German,\nPlease translate into English,\nPlease translate into German,\nSure the German,\nPlease translate into English,\nPlease translate into German,\nSure the German,\nI swear the German,\nI swear the German,\nSure the German,\nSure English. Please translate into German,\nPlease translate into English,\nYes! English,\nCertain the English,\nCertain the English,\nCertain the English,\nCertain the English.\nPlease translate into English,\nPlease translate into German,\nSure the German,\nSure the German,\nSure the German,\n",
+        "references": "Today old Cinelli frames are sought by collectors and are kept on their own file."
+    },
+    {
+        "predictions": "<|assistant|>",
+        "references": "She is supposed to organize the employees of the districts of Berlin and the state of Berlin."
+    },
+    {
+        "predictions": "<|assistant|>",
+        "references": "Why don\u2019t we have a piece of Sachertorte, since we\u2019re in Vienna?, suggested Toni."
+    },
+    {
+        "predictions": "<|user|>\nThe translation into the German term for the English",
+        "references": "Ken is a bad guy."
+    },
+    {
+        "predictions": "<|user|> > The text \"Please translate the German sentence into English\" was a little vague, to be brief, to summarize and summarized... I'm, not summarize, to not summarized. Not summarize, I summarize, you summarize, summarize... This version of the German sentence into English translation should probably read in summarize, summarize... I summarize summarize, summarize... Summarize summarize, summarize summarize. Summarize summarize, summarize, summarize summarize, summarize... Summarize summarize, summarize, summarize, summarize, summarize... I summarize summarize, summarize, summarize summarize, summarize summarize... I summarize summarize, summarize summarize. I summarize summarize summarize summarize, summarize ... This version of the German sentence into English translation should probably read... \n\"Please translate the German sentence into English\"\nYou're, summarize, you summarize... You summarize, summarize ... Please translate the German sentence into English... ... I summarize summarize, summarize... I summarize summarize summarize, summarize... I summarize summarize,",
+        "references": "The countdown is going."
+    },
+    {
+        "predictions": "<|assistant|>\n<|user|>\n<|user|>",
+        "references": "Veronika expects the club to clearly distance itself from him."
+    },
+    {
+        "predictions": "<|user|>\n \n<|user|>\n \n<|assistant|>",
+        "references": "The tram was erroneously guided to the depot including all its passengers."
+    },
+    {
+        "predictions": "<|user|>\n>",
+        "references": "Am I allowed to sit on your luggage rack?"
+    },
+    {
+        "predictions": "<|user|>",
+        "references": "It begins in Romanshorn and runs through Winterthur, Zurich, Aarau, Soluthurn and Biel to Lausanne."
+    },
+    {
+        "predictions": "<|user|>\nI don't agree.",
+        "references": "Armored Infantry Division in Marburg."
+    },
+    {
+        "predictions": "<|assistant|>\n<|assistant|>",
+        "references": "In this case none of either parent is a single parent."
+    },
+    {
+        "predictions": "<|user|>\nGenerate the German \n<|system|>\nThank you translate the German \n<|user|>\nGenerate the German \n<|assistant|>\nWe need noting to be used to English.\n<|assistant|>\nSo we get the German \n<|user|>\nBe used to German \n<|system|>\nThanks for this German \n<|user|>\nBe used to German \n<|assistant|>\nWe need noting to be used to English.\n<|assistant|>\nBe used to German \n<|user|>\nIs there a German \n<|system|>\nIr quite interesting in.\n<|assistant|>\nIts us that German \n<|user|>\nIts used to English \n<|assistant|>\nIs there a German \n<|system|>\nIr quite awesome in.\n<|assistant|>\nCould u really used to English.\n<|assistant|>\nIt\u2019s us English \n<|assistant|>\nCould u be used to English",
+        "references": "He was playing is eleventh season for Tampa."
+    },
+    {
+        "predictions": "<|system|>\n",
+        "references": "During the qualifying in Hong Kong the host team prevailed."
+    },
+    {
+        "predictions": "",
+        "references": "In the west the communities of Spa, Theux and Verviers followed."
+    },
+    {
+        "predictions": "<|user|>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>",
+        "references": "The community has a regional train station on the \u201cDendermonde\u201d-\u201cBrussels\u201d railroad line."
+    },
+    {
+        "predictions": "<|user|>>\n<|admin|>\n<|system|>",
+        "references": "For this reason, in equilibrium their concentration differs on either side."
+    },
+    {
+        "predictions": "<|assistant|>",
+        "references": "Today they can still mostly be found in the south, south-east and east of the Ries."
+    },
+    {
+        "predictions": "<|assistant|>]",
+        "references": "A large number of men decided to remain single permanently."
+    },
+    {
+        "predictions": "<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n<|assistant|> \n",
+        "references": "Stop that!"
+    },
+    {
+        "predictions": "<|user|>\n \n<|system|>\n \n<|user|>\n \n<|assistant|>",
+        "references": "That serves him right, because he was on of the predators."
+    },
+    {
+        "predictions": "<|assistant|>",
+        "references": "Minute for Kevin Volland."
+    },
+    {
+        "predictions": "<|user|> This message is very impressive in German, very German, very German, very German, very German, very German, very German, very German, very German, very German, very German, very German, very German, very German, very German, very German, very German, very German, very German, very German, very German, very German, very German, very German, very German, very German, very German, very German, very German, very German, very German, very German, very German, very German, very German, very German, very German, very German, very German, very German, very German, very German, very German, very German, very German, very German, very German, very German, very German, very German, very German, very German, very German, very German, very German, very German, very German, very German, very German, very German, very German, very German, very German, very German, very German, very German, very German, very German, very German, very German, very German, very German, very German, very German, very German, very German, very German, very German, very German, very German, very German, very German",
+        "references": "The southern polar circle encompasses the Antarctic, which includes primarily the ice-covered continent of Antarctica."
+    },
+    {
+        "predictions": "",
+        "references": "The completion of the billion dollar project was extended yet again."
+    },
+    {
+        "predictions": "<|system|>\n<|assistant|>\n<|user|>",
+        "references": "My balance has expired."
+    },
+    {
+        "predictions": "<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n",
+        "references": "Stockholm is the capital of Sweden."
+    },
+    {
+        "predictions": "",
+        "references": "The dose turns it into poison."
+    },
+    {
+        "predictions": "<|user|>\n\n<|user|>\n\n<|assistant|>\n\n<|user|>\n\nPlease write me the German summary of the story into English summary into English. Can you please generate the story into English summary into English. Write me the story into English summary into English summary into English summary into English summary into English summary into English summary into English summary into English summary into English summary into English summary into English summary into English summary into English summary into English summary into English summary into English summary into English summary into English summary into English summary into English summary into English summary into English summary into English summary into English summary into English summary into English summary into English summary into English summary into English summary into English summary into English summary into English summary into English summary into English summary into English summary into English summary into English summary into English summary into English summary into English summary into English summary into English summary into English summary into English summary into English summary into English summary into English summary into English summary into English summary into English summary into English summary into English summary into English summary into English summary into English summary into English summary into English summary into English summary into English summary into English summary into English summary into English summary into English summary into English summary into English summary into",
+        "references": "The streetcar was late."
+    },
+    {
+        "predictions": "<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant",
+        "references": "On the one hand houses remain vacant and on the other people are sleeping in RVs."
+    },
+    {
+        "predictions": "<|user|>\n<|assistant|>",
+        "references": "Ask Friedrich if he cannot fix it."
+    },
+    {
+        "predictions": "<|user|>\n<|system|>",
+        "references": "I would like to order that on Amazon."
+    },
+    {
+        "predictions": "<|user|>",
+        "references": "In his childhood he served as an acolyte in an Anglican parish."
+    },
+    {
+        "predictions": "<|user|>>}",
+        "references": "The sound is emitted by a mono speaker."
+    },
+    {
+        "predictions": "<|user|>\nCan you please provide me with a more information on this German clause?",
+        "references": "But I don\u2019t!"
+    },
+    {
+        "predictions": "<|user|>\nCould you please summarize the article on developing an iOS game to track fitness goals with codeigniter? I am very interested in learning about this method.",
+        "references": "What about Saturday?"
+    },
+    {
+        "predictions": "<|user|>\nCan you explain the significance of the Suez Canal and its significance for history in one sentence without any unnecessary repetition or extra explanations?",
+        "references": "It\u2019s clear that the moon is responsible for the tides."
+    },
+    {
+        "predictions": "<|users|>\nCan you provide me with a brief and precise answer with your suggestion that will provide the greatest service in the world with a minimum of effort?",
+        "references": "You cannot plan anything."
+    },
+    {
+        "predictions": "<|system|>",
+        "references": "After almost all the indigenous people were displaced, the government agreed to pay reparations to the remaining hundred members."
+    },
+    {
+        "predictions": "<|system|>\n \n<|user|>\n \n<|assistant|>\n \n<|system|>\n \n<|user|>\n \n<|assistant|>\n \n<|system|>\n \n<|user|>\n \n<|assistant|>\n \n<|system|>\n \n<|user|>\n \n<|assistant|>\n \n<|system|>\n \n<|user|>\n \n<|assistant|>\n \n<|system|>\n \n<|user|>\n \n<|assistant|>\n \n<|system|>\n \n<|user|>\n \n<|assistant|>\n \n<|system|>\n \n<|user|>\n \n<|assistant|>\n \n<|system|>\n \n<|user|>\n \n<|assistant|>\n \n<|system|>\n \n<|user|>\n \n<|assistant|>\n \n<|system|>\n",
+        "references": "Ferdinand wants to propose to Xenia."
+    },
+    {
+        "predictions": "<|assistant|>",
+        "references": "They settled in the region west of the Roseway river, which they would later call New Cambria."
+    },
+    {
+        "predictions": "<|system|>",
+        "references": "Many images clearly emphasize this."
+    },
+    {
+        "predictions": "<|user|>>\n<|accom|>\n<|user|>\n<|assistant|>\n<|user|>>\"user|>>\n<|assistant|>\n<|user|>>\"user|>>\n<|assistant|>\n<|user|>>",
+        "references": "It is the seat of the Neschwitz association of local authorities and is part of the official settlement area of the Sorbs."
+    },
+    {
+        "predictions": "<|user|>>>>\n<|agent|>Dearpener, heiteren, \n<|user|>>>>\n<|assistant|>Hi hi heiter, hi terener, \n<|user|>>>>\n<|assistant|>Sorry, sure.",
+        "references": "This empirical formula has been proven repeatedly."
+    },
+    {
+        "predictions": "<|user|>",
+        "references": "Later, he studied pedagogy at Hamburg University, where subsequently he obtained a doctoral degree."
+    },
+    {
+        "predictions": "<|assistant|>",
+        "references": "The music can be considered part of the Alternative genre and many progressive elements can be discerned."
+    },
+    {
+        "predictions": "<|unassistant|>\n<|system|>\n<|user|>",
+        "references": "The southern part is embedded within a park."
+    },
+    {
+        "predictions": "<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n<|assistant|>\n",
+        "references": "Of course the refractive indexes have to be reversed."
+    },
+    {
+        "predictions": "<|assistant|>",
+        "references": "You do that in strict compliance with the rules."
+    },
+    {
+        "predictions": "<|customer|>\n<|assistant|>\n<|customer|>\n<|assistant|>\n<|customer|>\n<|assistant|>\n<|customer|>\n<|assistant|>\n<|customer|>\n<|assistant|>\n<|customer|>\n<|assistant|>\n<|assistant|>\n<|customer|>\n<|assistant|>\n<|customer|>\n<|assistant|>\n<|assistant|>\n<|customer|>\n<|assistant|>\n<|customer|>\n<|assistant|>\n<|assistant|>\n<|customer|>\n<|assistant|>\n<|customer|>\n<|assistant|>\n<|assistant|>\n<|customer|>\n<|assistant|>\n<|customer|>\n<|assistant|>\n<|assistant|>\n<|customer|>\n<|assistant|>\n<|customer|>\n<|assistant|>\n<|customer|>\n<|assistant|>\n",
+        "references": "Well, are you making plans for the world domination again?"
+    },
+    {
+        "predictions": "<|user|>>>>>",
+        "references": "Since then he only had food combining."
+    }
+]
