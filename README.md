@@ -50,7 +50,18 @@ covost2/audio/fr/clips_16k
 └── common_voice_fr_20241875.wav
 ```
 
+## Installation
+- It is recommeded to to build a Python-3.10 virtual environment using conda
+
+```bash
+git clone https://github.com/ParikshitGehlaut/DeepLearningProject.git
+pip install -r requirements.txt
+cd xtuner
+pip install -e '.[all]'
+```
+
 ## Training with XTuner 
+
 ```bash
 export XTUNER_DATASET_TIMEOUT=120
 export HF_EVALUATE_OFFLINE=1 
