@@ -1,10 +1,10 @@
-# LLaST: Improved End-to-end Speech Translation System Leveraged by Large Language Models
+# CS428 Deep Learning Project
 
 # Introduction
-We introduces **LLaST**, a framework for building high-performance **L**arge **La**nguage model based **S**peech-to-text **T**ranslation systems.
+In our project, We succssfully trained and inference LLaST speech to text llm for German to English translations. This repository provides the methodologies and resources for advancing speech translation through innovative LLM-driven techniques.
+
+# About Model
 We address the limitations of end-to-end speech translation~(E2E ST) models by exploring model architecture design and optimization techniques tailored for LLMs. Our approach includes LLM-based speech translation architecture design, ASR-augmented training, multilingual data augmentation, and dual-LoRA optimization. Our approach demonstrates superior performance on the CoVoST-2 benchmark and showcases exceptional scaling capabilities powered by LLMs.
-We believe this effective method will serve as a strong baseline for speech translation and provide insights for future
-improvements of the LLM-based speech translation framework
 
 # Model List
 
@@ -14,7 +14,7 @@ improvements of the LLM-based speech translation framework
 | LLaST-8B      | Whisper-Large        | Llama2-7B-Instruct     | 
 
 
-# Training LLaST
+# Training
 
 ## Data Preparation
 - Download data from [CommonVoice](https://commonvoice.mozilla.org/en/datasets)
@@ -77,3 +77,8 @@ python xtuner/tools/test.py workspace/llast_2b_tinyllama_chat.py --checkpoint wo
   year = {2024}
 }
 ```
+
+# Team Members
+Parikshit Gehlaut    
+Soumyadeep Das    
+Vemula Chandrahaas Reddy   
